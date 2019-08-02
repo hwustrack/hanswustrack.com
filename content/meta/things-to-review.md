@@ -1,7 +1,6 @@
 ---
 title: "Things to Review"
 date: 2019-08-02T12:59:14-07:00
-draft: true
 ---
 
 # 0.1
