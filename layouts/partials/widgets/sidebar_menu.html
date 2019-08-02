@@ -1,0 +1,22 @@
+{{- $defaultConfig := .Site.Data.config.default.widgets.sidebar_menu -}}
+{{- $configData := ( or .Site.Data.config.widgets.sidebar_menu $defaultConfig ) -}}
+{{- $lang := .Site.Language.Lang -}}
+{{- $config := ( ( index $configData $lang ) | default $configData ) -}}
+
+<section class='widget widget-sidebar_menu sep-after'>
+
+    {{ $currentPage := . }}
+    
+    <nav id='sidebar-menu' class='menu sidebar-menu' aria-label='{{ i18n "sidebarMenu" }}'>
+        <div class='container'>
+          <ul>
+              {{ range .Site.Menus.main }}
+              <li class='item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} current {{end}}'>
+                <a href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+              {{ end }}
+          </ul>
+        </div>
+      </nav>
+
+</section>

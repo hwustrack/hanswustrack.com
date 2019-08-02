@@ -1,0 +1,25 @@
+baseURL = "http://www.hanswustrack.com"
+title = "Hans Wustrack"
+copyright = "" # for smart copyright line, leave this blank and check [params.copyright]
+theme = "minimo"
+
+sectionPagesMenu = "main"
+
+[params.info]
+# description = ""
+title404 = "params.info title404 text"
+
+[params.sidebar]
+enable = true
+
+[params.widgets]
+header = ["breadcrumbs"]
+homepage = ["recent_posts"]
+sidebar = ["about", "sidebar_menu"]
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "January 02, 2006"
+listDateFormat = "Jan 02, 2006"
+archiveDateFormat = "Jan 02, 2006"
+hideMainMenu = true
