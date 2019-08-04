@@ -9,14 +9,14 @@ date: 2019-08-02T12:59:14-07:00
 - [x] Override sidebar rather than edit theme
 
 ## Site
-- [ ] Breadcrumbs at top
-- [ ] Fonts
-- [ ] Yellow bar, maybe other colors?
+- [x] Breadcrumbs at top
+- [x] Fonts
+- [x] Yellow bar, maybe other colors?
 - [ ] Footer
 - [x] Date style
 - [x] entry-footer
-- [ ] Should I have a description?
-- [ ] Home page title - would be nice to have About rather than name again
+- [x] Should I have a description?
+- [ ] Home page title - would be nice to have About rather than name again, yes this would be better
 
 ## Content
   - [ ] About
