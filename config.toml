@@ -16,6 +16,7 @@ enable = true
 header = ["breadcrumbs"]
 homepage = ["recent_posts"]
 sidebar = ["about", "sidebar_menu"]
+footer = ["social_menu"]
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
@@ -23,3 +24,10 @@ dateFormat = "January 02, 2006"
 listDateFormat = "Jan 02, 2006"
 archiveDateFormat = "Jan 02, 2006"
 hideMainMenu = true
+
+[params.social]
+email = "hans.wustrack@gmail.com"
+github = "hwustrack"
+instagram = "???"
+linkedin = "hanswustrack"
+twitter = "HansWustrack"

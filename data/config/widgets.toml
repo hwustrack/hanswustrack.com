@@ -3,3 +3,8 @@
 title = ""                              # default: .Site.Title
 description = ""                        # default: .Site.Params.info.description
 logo = "/images/MeCircle512x512.png"    # default: "/images/logo.png"
+
+# Social Menu Widget config
+[social_menu]
+title = ""                            # default: ""
+platforms = ["github","twitter","instagram","email","linkedin"]

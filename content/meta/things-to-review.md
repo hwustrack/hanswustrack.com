@@ -8,6 +8,8 @@ date: 2019-08-02T12:59:14-07:00
 ## Code
 - [x] Override sidebar rather than edit theme
 - [ ] Allow you to select section event when a post in that section is already selected
+- [ ] Analytics
+- [ ] Mailing list
 
 ## Site
 - [x] Breadcrumbs at top
