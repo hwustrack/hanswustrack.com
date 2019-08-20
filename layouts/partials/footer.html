@@ -3,7 +3,7 @@
 <footer id='footer' class='footer'>
   <div class='container sep-before'>
       <form name="subscribe" method="POST" data-netlify="true">
-        <input type="email" placeholder="Enter your email" id="subscribeEmailInput" required>
+        <input type="email" name="email" placeholder="Enter your email" id="subscribeEmailInput" required>
         <button type=submit>Subscribe</button>
       </form>
     {{- $footerWidgets := .Site.Params.widgets.footer -}}
