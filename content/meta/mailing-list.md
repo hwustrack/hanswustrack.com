@@ -6,7 +6,7 @@ draft: true
 
 # Get sign ups
 
-Netlify Function -> Google Sheet
+Netlify Form -> Zapier -> Google Sheet
 
 # Notify on new post
 
