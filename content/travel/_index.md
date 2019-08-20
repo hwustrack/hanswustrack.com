@@ -3,4 +3,4 @@ title: Travel
 weight: -270
 ---
 
-These are posts about travel.
+My girlfriend, Kay, and I will be living in New Zealand for a year starting in October 2019. We'll keep ya updated on that here.

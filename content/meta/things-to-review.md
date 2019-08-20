@@ -9,13 +9,13 @@ date: 2019-08-02T12:59:14-07:00
 - [x] Override sidebar rather than edit theme
 - [ ] Allow you to select section event when a post in that section is already selected
 - [ ] Analytics
-- [ ] Mailing list
+- [x] Mailing list
 
 ## Site
 - [x] Breadcrumbs at top
 - [x] Fonts
 - [x] Yellow bar, maybe other colors?
-- [ ] Footer
+- [x] Footer
 - [x] Date style
 - [x] entry-footer
 - [x] Should I have a description?

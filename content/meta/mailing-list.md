@@ -6,7 +6,7 @@ draft: true
 
 # Get sign ups
 
-Netlify Form -> Zapier -> Google Sheet
+Netlify Form (only 100/month for free) -> Zapier -> Google Sheet
 
 # Notify on new post
 
