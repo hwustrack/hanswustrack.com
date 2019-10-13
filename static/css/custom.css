@@ -4,3 +4,20 @@
     text-indent: 2px;
     line-height: normal;
 }
+
+img {
+    /* center image */
+    display: block;
+    margin: 0 auto;
+}
+
+/* image caption */
+img + em {
+    display: block; 
+    text-align: center;
+ }
+
+ /* override style and allow current sidebar item to be reselected */
+ .menu li.current>a {
+    pointer-events: auto;
+}
