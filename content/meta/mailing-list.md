@@ -9,8 +9,8 @@ Netlify Form (only 100/month for free) -> Zapier -> Google Sheet
 
 # Notify on new post
 
-Manual
+I manually add people from the Google Sheet to my Google Contacts and add a label, then send a group email to the label.
 
 # Allow you to unsubscribe
 
-Link in email -> Netlify Function -> Google Sheet
+Anyone receiving the emails will need to respond to me and I'll remove them from the list.
