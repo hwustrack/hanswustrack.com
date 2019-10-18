@@ -175,9 +175,10 @@ An easy trail with a noticeable elevation gain and a view of Delicate Arch from 
 
 ##### Sights
 
-These arches are easily accessible from the road and across the parking lot from one another.
 - The Windows and Turret Arch
 - Double Arches
+
+These arches are easily accessible from the road and across the parking lot from one another.
 
 ## Steamboat Springs
 
