@@ -1,6 +1,6 @@
 ---
 title: "Road Trip Leg 2"
-date: 2019-10-18T12:16:20+13:00
+date: 2019-10-13T12:03:46-05:00
 draft: true
 ---
 

@@ -5,7 +5,7 @@ draft: true
 ---
 
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1570911871/hanswustrack.com/road-trip-leg-1/Leg1-4_xshtyt.png "Leg 1 Route")
-_Oakland > Lake Tahoe > Lassen Volcanic NP > Portland > Mount Hood NF_
+_Oakland > Lake Tahoe > Lassen Volcanic National Park > Portland > Mount Hood National Forest_
 
 After Hans’ 4.5 years and Kay’s 3 years, we said a sad goodbye to Oakland, CA on Labor Day (Monday, September 2) and set off for our 21 day adventure. We had a Honda Accord stuffed to the brim with all of our belongings, a detailed itinerary outlining all of the hikes we planned to complete and campsites we had booked, plenty of offline podcasts and music downloaded, and enough dehydrated backpacking meals to survive a zombie apocalypse. 
  
