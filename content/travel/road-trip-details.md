@@ -77,7 +77,7 @@ A pleasant trail with amazing views of a waterfall at the end. The southern side
 ##### Camping
 [Many Glacier](https://www.recreation.gov/camping/campgrounds/251869)
 
-An awesome campground on the northeast side of the park that has some sites available for reservation and some for first come, first served. If you do first come, first served, get there early! We got there a little before 8 am and there was already a short line. The rangers started assigning sites at 8 am. Other days we saw lengthy lines by 7:30 am. The sites are spacious but not very private. Our favorite part about the site is that there are plenty of great trails, like Grinnell Glacier, that start less than a mile from the campsite and the grounds offer views of Mt Grinnell. It’s also close to Many Glacier Hotel, where you can get warm by the fire, have a drink, or a good meal with incredible views of Mt Grinnell rising behind Swiftcurrent Lake. We would highly recommend this site.
+An awesome campground on the northeast side of the park that has some sites available for reservation and some for first-come, first-served. If you do first-come, first-served, get there early! We got there a little before 8am and there was already a short line. The rangers started assigning sites at 8am. Other days we saw lengthy lines by 7:30am. The sites are spacious but not very private. Our favorite part about the site is that there are plenty of great trails, like Grinnell Glacier, that start less than a mile from the campsite and the grounds offer views of Mt Grinnell. It’s also close to Many Glacier Hotel, where you can get warm by the fire, have a drink, or a good meal with incredible views of Mt Grinnell rising behind Swiftcurrent Lake. We would highly recommend this site.
 
 ##### Hiking
 [Grinnell Glacier](https://www.alltrails.com/trail/us/montana/grinnell-glacier-trail)  
@@ -138,7 +138,7 @@ A spectacular overlook of the Grand Canyon of the Yellowstone and the Upper Fall
 ##### Camping
 [Jenny Lake](https://www.gtlc.com/camping/jenny-lake-campground)
 
-An incredibly scenic campground that is all first come, first served. Get there early as there are often lines before 8 am. The grounds are a short walk to Jenny Lake and some sites offer direct views of Grand Teton. There are bears that frequent the area, so be sure to store food properly. There is only 1 bathroom for the whole site, but that didn't prove to be a problem for us.
+An incredibly scenic campground that is all first-come, first-served. Get there early as there are often lines before 8am. The grounds are a short walk to Jenny Lake and some sites offer direct views of Grand Teton. There are bears that frequent the area, so be sure to store food properly. There is only 1 bathroom for the whole site, but that didn't prove to be a problem for us.
 
 ##### Hiking
 [Cascade Canyon](https://www.alltrails.com/trail/us/wyoming/cascade-canyon-trail)  
@@ -149,7 +149,7 @@ A great trail that extends through Cascade Canyon. You can take a ferry to the t
 ##### Sights
 Jenny Lake
 
-Take a boat out on Jenny Lake!
+Take a boat out! They have rentals easily accessible right on the lakefront.
 
 ## Salt Lake City
 
