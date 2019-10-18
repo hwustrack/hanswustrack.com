@@ -1,7 +1,6 @@
 ---
 title: "Hiking, Climbing, and Camping - The Road Trip Details"
 date: 2019-09-27T09:12:55-05:00
-draft: true
 ---
 
 ## Table of Contents

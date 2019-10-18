@@ -1,7 +1,6 @@
 ---
 title: "Hello, New Zealand!"
 date: 2019-10-18T14:02:50+13:00
-draft: true
 ---
 
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/h_0.4/v1571361014/hanswustrack.com/hello-new-zealand/IMG_4124_rshq0d.jpg "Casually our refolding tent in AKL")

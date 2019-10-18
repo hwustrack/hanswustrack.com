@@ -1,7 +1,6 @@
 ---
 title: "Road Trip Leg 1"
 date: 2019-10-09T15:47:37-05:00
-draft: true
 ---
 
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1570911871/hanswustrack.com/road-trip-leg-1/Leg1-4_xshtyt.png "Leg 1 Route")
