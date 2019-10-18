@@ -13,3 +13,5 @@ We made it to New Zealand! Our flight departed out of O'Hare at 8:30pm on Sunday
 _Viaduct Harbor_
 
 So far we've just been working on logistical tasks like setting up bank accounts (as of Oct 1, that was made far more difficult) and are hoping to buy a car this weekend. Lookin forward to gettin on the road!
+
+Check out our Instagram, linked below, more New Zealand pictures to come!

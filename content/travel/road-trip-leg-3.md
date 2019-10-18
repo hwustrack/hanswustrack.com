@@ -40,3 +40,5 @@ Monday, September 23 sadly marked the last day of our road trip! We woke up earl
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1571360367/hanswustrack.com/road-trip-leg-3/IMG_4191_pbhyf3.jpg "Farewell USA")
 
 It was bittersweet that the trip had reached its end - on the one hand, we don’t think either of us could have handled even one more morning of bussing all of our belongings from the bear box/Airbnb back to the car, but on the other, we were able to experience some of the most beautiful places in the West and were so happy we took this time during our big transition. 
+
+Check out our Instagram, linked below, for more pictures and [Hiking, Climbing, and Camping - The Road Trip Details](/travel/road-trip-details/) for specifics on where we went and stayed!
