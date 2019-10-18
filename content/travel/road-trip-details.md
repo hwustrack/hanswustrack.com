@@ -196,7 +196,7 @@ Parking is $5. It seems like a good trail but didn’t get to do the whole thing
 A great campsite 10 minutes from downtown Estes Park available for reservations; not very private but very scenic. The campground provides stellar, clean facilities.
 
 ##### Hiking
-[Gem Lake](https://www.alltrails.com/trail/us/colorado/gem-lake-trail)
+[Gem Lake](https://www.alltrails.com/trail/us/colorado/gem-lake-trail)  
 _Out & Back // 3.1 mi // 990 ft gain_
 
 A nice hike providing views of Estes Park valley the whole way up. It was a bit steeper than we were expecting, but finished at Gem Lake, a small lake surrounded by interesting rock formations.
