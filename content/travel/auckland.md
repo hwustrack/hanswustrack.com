@@ -32,3 +32,5 @@ After finally parting ways with our new friend Amin, and left alone with our new
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1572919091/hanswustrack.com/auckland/IMG_5210_jynkhn.jpg "Camping views")
 
 We didn’t waste any more time and from McDonald’s, we set off for Northland, the large northernmost peninsula of New Zealand. Goodbye, Auckland and city prices! 
+
+Check out our Instagram, linked below, for more pictures!

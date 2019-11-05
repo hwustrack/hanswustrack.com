@@ -51,3 +51,5 @@ A sanctuary forest that houses the two largest living kauri trees. The kauri tre
 As it seems like they are everywhere in NZ, we got to see many beautiful waterfalls. Whangerei Falls and Rainbow Falls were the main attractions, but there are tons of unnamed ones throughout the region. 
 
 All in all, we had a great few days in Northland. We were happy to finally be out on the road and adjusted to van life well. Next up, we head south!
+
+Check out our Instagram, linked below, for more pictures!
