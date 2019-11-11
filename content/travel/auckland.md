@@ -33,4 +33,4 @@ After finally parting ways with our new friend Amin, and left alone with our new
 
 We didn’t waste any more time and from McDonald’s, we set off for Northland, the large northernmost peninsula of New Zealand. Goodbye, Auckland and city prices! 
 
-Check out our Instagram, linked below, for more pictures!
+For more pictures, check out our Instagram, from_oakland_to_auckland, also linked below!
