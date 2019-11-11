@@ -24,7 +24,7 @@ date: 2019-08-02T12:59:14-07:00
   - [ ] About
 
 # 0.2
-- [ ] Custom favicon
+- [x] Custom favicon
 - [ ] Analytics
 - [ ] Come up with a good strategy for reducing img sizes
 - [ ] 404 page - there should be some handling for this
