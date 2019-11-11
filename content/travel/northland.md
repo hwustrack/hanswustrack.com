@@ -52,4 +52,4 @@ As it seems like they are everywhere in NZ, we got to see many beautiful waterfa
 
 All in all, we had a great few days in Northland. We were happy to finally be out on the road and adjusted to van life well. Next up, we head south!
 
-For more pictures, check out our Instagram, from_oakland_to_auckland, also linked below!
+For more pictures, check out our Instagram, *from_oakland_to_auckland*, also linked below!

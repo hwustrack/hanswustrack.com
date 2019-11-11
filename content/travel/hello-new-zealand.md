@@ -15,4 +15,4 @@ _Viaduct Harbor_
 
 So far we've just been working on logistical tasks like setting up bank accounts (as of Oct 1, that was made far more difficult) and are hoping to buy a car this weekend. Looking forward to gettin out on the road!
 
-For more New Zealand pictures to come, check out our Instagram, from_oakland_to_auckland, also linked below!
+For more New Zealand pictures to come, check out our Instagram, *from_oakland_to_auckland*, also linked below!
