@@ -3,7 +3,7 @@ title: "Analytics"
 date: 2019-08-14T07:43:44-07:00
 ---
 
-I'm currently deciding between a few options to implement analytics
+I'm currently deciding between a few options to implement analytics:
 
 - Google Analytics
 - Netlify Analytics

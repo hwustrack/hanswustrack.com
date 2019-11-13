@@ -25,6 +25,7 @@ date: 2019-08-02T12:59:14-07:00
 
 # 0.2
 - [x] Custom favicon
+- [ ] Subscribe to individual sections of the site - travel, projects, etc. Checkboxes whose default toggles based on what section you're in.
 - [ ] Analytics
 - [ ] Come up with a good strategy for reducing img sizes
 - [ ] 404 page - there should be some handling for this
