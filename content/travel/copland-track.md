@@ -20,3 +20,5 @@ Once they finished their chat, Monika came around to all of the groups to confir
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/h_0.35/v1574133143/hanswustrack.com/copland-track/IMG_8104_lexnv5.jpg "Welcome Flat Hut")
 
 Before we knew it, it was late and given that the hut didn’t have electricity, was also pitch black, so we said goodnight and slept like logs. The following day, we awoke early and started on the ten miles back. It was as beautiful as the day before, but it definitely felt far longer and by the time we got back to Mayo, we were wiped out. Overall, not only was the track stunning, and the hot springs an added bonus, but it was a blast to chat with some folks in a warm hut in the mountains. 
+
+For more pictures, check out our Instagram, *from_oakland_to_auckland*, also linked below!

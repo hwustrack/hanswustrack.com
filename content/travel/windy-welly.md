@@ -15,3 +15,5 @@ Another notable story from Windy Welly was our experience watching the famed All
 _Te Papa Museum in downtown Wellington_
 
 Overall, we really liked Wellington and could definitely see ourselves living there for a few months, so the plan holds true! We’ll likely be heading back there in early December to start looking for jobs and an apartment. 
+
+For more pictures, check out our Instagram, *from_oakland_to_auckland*, also linked below!

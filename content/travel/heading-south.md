@@ -39,3 +39,5 @@ It’s always fun to have a scenic site to park Mayo for the night, and this one
 
 ###### Castle Hill
 An area of rolling grassy hills with huge limestone boulders scattered throughout. Many people boulder and do short sport climbs here, but since we don’t have much gear in NZ, we just laced up our shoes and messed around a bit.
+
+For more pictures, check out our Instagram, *from_oakland_to_auckland*, also linked below!
