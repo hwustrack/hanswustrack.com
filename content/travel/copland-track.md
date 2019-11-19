@@ -1,7 +1,6 @@
 ---
 title: "Copland Track"
 date: 2019-11-19T12:21:27+13:00
-draft: true
 ---
 
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1574131935/hanswustrack.com/copland-track/89D045AA-95BB-44E2-8FE1-01270189F474_ebv3qj.jpg "Copland River")

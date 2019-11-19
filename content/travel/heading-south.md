@@ -1,7 +1,6 @@
 ---
 title: "Heading South"
 date: 2019-11-19T12:16:20+13:00
-draft: true
 ---
 
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1574131580/hanswustrack.com/heading-south/HeadingSouthMap_udltge.png "Heading South Route")
