@@ -1,0 +1,18 @@
+---
+title: "Windy Welly"
+date: 2019-11-19T12:14:48+13:00
+draft: true
+---
+
+![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1574132349/hanswustrack.com/windy-welly/IMG_6397_caa7bg.jpg "Windy Welly Harbor")
+
+After Northland, we booked it down to Wellington, the capital of NZ and southernmost city on the North Island. It has gained the nickname “Windy Welly” due to the severe weather fronts that blow in directly from Antarctica! We were excited to visit because our tentative plan for the year involves settling down and finding jobs there for our middle eight or nine months. Furthermore, it’s the port for the ferry between the North and South Islands, and we were itching to get down South to the epic mountain landscapes we’d seen on all of the postcards. Admittedly, we skipped a ton of attractions on the North Island, but we plan to return to all of those highlights throughout the year as they will be more accessible for weekend trips from Wellington.
+
+We spent three days in Wellington and after a few too many nights of sleeping in the van without a shower, we decided to splurge and stay in a hostel for two nights. Wellington offered tons of good food, strong coffee, and craft breweries, all of which we greatly enjoyed. The highlight of our stay, however, was meeting up with a girl from the US who had made the move to NZ in February of this year (shoutout to Katelyn). A friend of Hans’ (@shmoesmouth) connected us and throughout our whole planning process, we asked her about a million questions. Her responses and advice were always more helpful than we could’ve asked for and we don’t think we’d have been let in the country without her handy checklists! We hope we can pay it forward with helping future NZ travelers. She’s living and working in Wellington and adores it, so that was great to hear. 
+
+Another notable story from Windy Welly was our experience watching the famed All Blacks rugby match against England in the semi-finals of the 2019 Rugby World Cup. Rugby is BIG over here and the All Blacks are treated as gods. We definitely wanted to have an authentic kiwi experience, so we sought out a bar with lots of local fans. When we walked into Residence and there was a long table of about 30 drunk 25-40 year old dudes wearing All Black shirts and bucket hats, we knew we were in the right place. We were enjoying their shenanigans before the match until things started to get a bit steamy between them and a table of older women sitting nearby. Things escalated quickly with the women giving one particular guy lap dances and slowly taking his clothes off. It concluded with him seated literally butt-naked in the middle of the bar, certainly a bit more than we bargained for! Apparently, we were obvious, prude-ish Americans, and so the bouncer came over to our table to ask if we were comfortable with what was going on. Trying to hide our discomfort, we assured the bouncer it was all good. Thankfully, when the game started, the guys got distracted and things cooled down a bit, and we finally got to enjoy some rugby. Unfortunately, the All Blacks were completely dominated the entire match and England won handily. We felt like we picked up the rules pretty quickly and enjoyed the match, just wished for a different outcome...and less nudity! 
+
+![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/h_0.35/v1574132663/hanswustrack.com/windy-welly/IMG_4603_rs51sz.jpg "Te Papa Museum")
+_Te Papa Museum in downtown Wellington_
+
+Overall, we really liked Wellington and could definitely see ourselves living there for a few months, so the plan holds true! We’ll likely be heading back there in early December to start looking for jobs and an apartment. 
