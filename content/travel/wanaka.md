@@ -1,7 +1,6 @@
 ---
 title: "Wanaka"
 date: 2019-12-03T10:46:45+13:00
-draft: true
 ---
 
 From the Copland Track, we made our way further south and cut inland through the Southern Alps towards the stunning resort town of Wanaka. It’s a laid back town right on Lake Wanaka with endless views of snow-capped mountains. Wanaka provided a great balance of beautiful outdoor activities with tasty spots for savory pies and fish & chips. Some highlights were: 
