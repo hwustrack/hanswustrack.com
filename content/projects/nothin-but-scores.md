@@ -1,5 +1,5 @@
 ---
-title: "Nothin but Scores"
+title: "Nothin But Scores"
 date: 2019-12-13T13:23:39+13:00
 ---
 
