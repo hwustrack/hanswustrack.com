@@ -1,4 +1,35 @@
-.resume-test-flex {
-    display: flex;
-    flex-direction: row-reverse;
+.resume-container {
+    max-width: 64rem;
 }
+
+.resume-subsection {
+    display: flex;
+}
+
+.resume-subsection-margin {
+    flex: 0 0 6em;
+    text-align: right;
+    margin-right: 1em;
+}
+
+.resume-section-title {
+    position: relative;
+    display: flex; /* sets a flex container */
+    align-items: center; /* aligns vertically */
+  }
+  
+  .resume-section-title a {
+    padding: 0.3em 0.5em;
+    display: inline-block;
+  }
+  
+  .resume-section-title::before {
+    border-top: 2px solid #ffcd00;
+    display: block;
+    content: " ";
+    width: 2em;
+  }
+  
+  .resume-text-center {
+    text-align: center !important;
+  }

@@ -1,0 +1,13 @@
+{{ partial "header" . }}
+
+<br>
+
+<div class="resume-container">
+  {{ range .Paginator.Pages }}
+    {{ .Render "resume-section" }}
+  {{ end }}
+
+  {{ partial "nav/pagination" . }}
+</div>
+
+{{ partial "resume/footer" . }}
