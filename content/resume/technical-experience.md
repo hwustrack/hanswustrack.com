@@ -11,7 +11,6 @@ draft: true
 {{< resume-subsection-start "Languages" >}}
 C#, JavaScript
 {{< resume-subsection-end >}}
-
 {{< resume-subsection-start "Technologies" >}}
 .NET Framework/Core, ASP.NET/Core, Azure DevOps, Git, Visual Studio, WinDbg, Entity Framework Core (ORM), Azure - Service Fabric, Event Hubs, Table Storage, Key Vault, SQL, Functions
 {{< resume-subsection-end >}}
@@ -21,7 +20,6 @@ C#, JavaScript
 {{< resume-subsection-start "Languages" >}}
 PHP, Java, Python, C
 {{< resume-subsection-end >}}
-
 {{< resume-subsection-start "Technologies" >}}
 Hugo, Tailwind CSS, Apache, Nginx, MySQL
 {{< resume-subsection-end >}}

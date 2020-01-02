@@ -7,11 +7,8 @@ draft: true
 ---
 
 {{< resume-subsection-start "2010 – 2014" >}}
-
 BS, Mechanical Engineering, University of Wisconsin - Madison, Madison, WI.
-
 {{< resume-subsection-end >}}
-
 {{< resume-subsection-start "GPA" >}}
 3.72/4.0
 {{< resume-subsection-end >}}

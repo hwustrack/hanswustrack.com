@@ -29,7 +29,7 @@ A colleague and I moved to IT to form a development team of just the two of us a
 {{< resume-subsection-end >}}
 
 {{< resume-subsection-start "2015 – 2016" >}}
-#### Customer Support Engineer, OSIsoft LLC, San Leandro, CA. 
+#### Customer Support Engineer, OSIsoft LLC, San Leandro, CA
 
 Rotated between Tech Support and Field Service departments. Both required working directly with customers to install, upgrade, and troubleshoot the OSIsoft product suite. On Tech Support, I closed over 500 cases and was in the top 10% of engineers by closed cases. 
 {{< resume-subsection-end >}}

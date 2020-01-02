@@ -28,6 +28,7 @@
     display: block;
     content: " ";
     width: 2em;
+    margin-left: 0.5em;
   }
   
   .resume-text-center {
