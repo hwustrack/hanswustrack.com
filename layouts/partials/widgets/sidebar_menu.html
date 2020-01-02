@@ -1,3 +1,6 @@
+<!-- custom sidebar menu that will highlight sidebar item whose descendent page is active -->
+<!-- also sorts main menu by name rather than default -->
+
 {{- $defaultConfig := .Site.Data.config.default.widgets.sidebar_menu -}}
 {{- $configData := ( or .Site.Data.config.widgets.sidebar_menu $defaultConfig ) -}}
 {{- $lang := .Site.Language.Lang -}}
@@ -10,7 +13,7 @@
     <nav id='sidebar-menu' class='menu sidebar-menu' aria-label='{{ i18n "sidebarMenu" }}'>
         <div class='container'>
           <ul>
-              {{ range .Site.Menus.main }}
+              {{ range .Site.Menus.main.ByName }}
               <li class='item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} current {{end}}'>
                 <a href="{{ .URL }}">{{ .Name }}</a>
               </li>

@@ -1,0 +1,4 @@
+.resume-test-flex {
+    display: flex;
+    flex-direction: row-reverse;
+}

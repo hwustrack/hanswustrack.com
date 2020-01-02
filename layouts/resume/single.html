@@ -1,0 +1,17 @@
+{{ partial "header" . }}
+
+<article class="resume-test-flex">
+  <br>
+  <br>
+  {{ .Params.location }}
+  <br>
+  {{ .Params.email }}
+  <br>
+  <br>
+  {{ partial "entry/cover" . }}
+  {{ partial "entry/toc" . }}
+  {{ partial "entry/content" . }}
+  {{ partial "entry/footer" . }}
+</article>
+
+{{ partial "resume/footer" . }}
