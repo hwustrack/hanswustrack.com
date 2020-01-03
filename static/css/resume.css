@@ -6,13 +6,41 @@
     margin: 0 0 0 1.5em;
 }
 
-.resume-subsection {
+.resume-header {
     display: flex;
-    margin: 0.625em 0 0 0;
 }
 
 #resume-title {
     display: none;
+    flex-grow: 1;
+}
+
+.resume-contact-info {
+    list-style-type:none;
+    text-align: right;
+    font-size: 90%;
+    flex-grow: 1;
+}
+
+.resume-section-title {
+    position: relative;
+    display: flex; /* sets a flex container */
+    align-items: center; /* aligns vertically */
+    margin: 0.625em 0 0.625em;
+}
+  
+.resume-section-title::before {
+    border-top: 2px solid #ffcd00;
+    display: block;
+    content: " ";
+    width: 3em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.resume-subsection {
+    display: flex;
+    margin: 0.625em 0 0 0;
 }
 
 .resume-subsection-margin {
@@ -20,23 +48,7 @@
     text-align: right;
     margin-right: 1em;
 }
-
-.resume-section-title {
-    position: relative;
-    display: flex; /* sets a flex container */
-    align-items: center; /* aligns vertically */
-    margin: 0.625em 0 0.625em 0
-  }
   
-  .resume-section-title::before {
-    border-top: 2px solid #ffcd00;
-    display: block;
-    content: " ";
-    width: 3em;
-    margin-left: 0.5em;
-    margin-right: 0.5em;
-  }
-  
-  .resume-text-center {
+.resume-text-center {
     text-align: center !important;
-  }
+}

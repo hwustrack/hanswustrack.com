@@ -3,6 +3,9 @@ title: "Resume Single"
 date: 2020-01-03T18:24:00+13:00
 type: "resume"
 menu: "main"
+print-title: "Hans Wustrack"
+email: "hans.wustrack@gmail.com"
+location: "Wellington, New Zealand"
 draft: true
 ---
 

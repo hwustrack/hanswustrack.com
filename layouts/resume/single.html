@@ -1,6 +1,18 @@
 {{ partial "header" . }}
 
 <article class="resume-container">
+  <div class="resume-header">
+    
+    <h1 id="resume-title">
+      {{ $.Param "print-title" }}
+    </h1>
+
+    <ul class="resume-contact-info">
+      <li><a href='mailto:{{ $.Param "email" }}'>{{ $.Param "email" }}</a></li>
+      <li>{{ $.Param "location" }}</li>
+    </ul>
+  </div>
+
   {{ .Content }}
 </article>
 
