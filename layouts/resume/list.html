@@ -2,6 +2,12 @@
 
 <br>
 
+<h1 id="resume-title">
+  <a href='{{ .Permalink | relURL }}'>
+    HANS
+  </a>
+</h1>
+
 <div class="resume-container">
   {{ range .Paginator.Pages }}
     {{ .Render "resume-section" }}

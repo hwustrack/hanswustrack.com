@@ -6,6 +6,10 @@
     display: flex;
 }
 
+#resume-title {
+    display: none;
+}
+
 .resume-subsection-margin {
     flex: 0 0 6em;
     text-align: right;
