@@ -1,17 +1,7 @@
 {{ partial "header" . }}
 
-<article>
-  <br>
-  <br>
-  {{ .Params.location }}
-  <br>
-  {{ .Params.email }}
-  <br>
-  <br>
-  {{ partial "entry/cover" . }}
-  {{ partial "entry/toc" . }}
-  {{ partial "entry/content" . }}
-  {{ partial "entry/footer" . }}
+<article class="resume-container">
+  {{ .Content }}
 </article>
 
 {{ partial "resume/footer" . }}
