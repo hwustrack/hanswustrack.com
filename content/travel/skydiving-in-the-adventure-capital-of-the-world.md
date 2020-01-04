@@ -1,0 +1,18 @@
+---
+title: "Skydiving in the Adventure Capital of the World"
+date: 2020-01-04T12:37:48+13:00
+draft: true
+---
+
+After two canceled appointments due to Queenstown’s unpredictable weather, we were finally able to hurl ourselves out of an airplane, and wow, was it amazing! We were driven into the countryside, given a (not as extensive as you’d expect) safety chat, got geared up in our onesies, gloves, goggles, & goofy bald caps, and finally met our Tandem Masters, the certified skydiving pros who we'd be strapped to during the jump. Hans’ partner was Marcel, a quiet bald man with a long beard, while Kay’s partner was quite the opposite. His name was Jambo and he’s exactly what you’re picturing right now - a tall, lanky goofball with hair down to his shoulders who chatted nonstop and gave Kay the hang loose sign with every other word he spoke. He had apparently done over 4,000 jumps! Jambo gave Kay the news that they’d be the first to jump; he was as excited about that as Kay was nervous... 
+
+![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1578095291/hanswustrack.com/skydiving-in-the-adventure-capital-of-the-world/IMG_9443_hwjt73.jpg "Our silly costumes")
+
+The ten pairs piled into a tiny aircraft with no seats and began our 15 minute ascent up into the clear, blue sky. After three days of no jumps due to bad weather, we had a stunningly beautiful day for it. We flew over a mountain range, the Remarkables, as well as Lake Wakatipu, and as we got higher, the masters began strapping us to themselves. The masters were all hyped up, most using GoPros to record the adventure. During the ascent, Hans was pretty calm and Marcel let him quietly take in the views, while Kay was trying her best to be an excited subject for Jambo’s GoPro recording. When we approached 12,000ft, a red light turned on signifying that it was safe to get jumping (skydiving: the only activity where a red light means go). Jambo opened up the door, hung Kay off the ledge for a few seconds, and then got in the jumping position, otherwise known as the banana position. Kay looked back at the rest of the pairs and before she knew it, they were out of the plane, zooming headfirst towards the mountains. Hans and Marcel were up third and they were out of the plane less than 30 seconds after Kay had jumped. The free fall was wild - exhilarating, but hard to breathe and obviously pretty scary so we had to consciously remind ourselves to look up and enjoy the view. Jumping from 12,000ft meant we had a 45 second free fall, but it felt like it lasted about five! Before we knew it, our partners activated our parachutes and we were level with the mountains, gliding over Lake Wakatipu, breathing a huge sigh of relief.
+
+![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1578095301/hanswustrack.com/skydiving-in-the-adventure-capital-of-the-world/IMG_6565_rsxbvj.jpg "Our amateur photography")
+_Since professional photos were $200, here are our amateur shots_
+
+The paragliding portion was definitely less terrifying, which allowed us to soak in the views as we floated along. At one point, Jambo handed over the reins and let Kay steer! It was hard work! Too quickly, we reached the ground, adrenaline-pumping, and found each other with big smiles on our faces. We had an absolute blast, thought it was one of the most invigorating things we’d ever done, and are eager to do it again sometime (apologies to our parents!). 
+
+For more pictures, check out our Instagram, *from_oakland_to_auckland*, also linked below!
