@@ -6,6 +6,18 @@
     margin: 0 0 0 1.5em;
 }
 
+.resume-container p {
+    margin: 0 0 0.5em;
+}
+
+.resume-container p:last-child {
+    margin: 0;
+}
+
+.resume-container a {
+    text-decoration: underline;
+}
+
 .resume-header {
     display: flex;
 }
@@ -47,6 +59,11 @@
     flex: 0 0 6em;
     text-align: right;
     margin-right: 1em;
+}
+
+.resume-subsection-subtitle {
+    font-weight: normal;
+    font-size: 90%;
 }
   
 .resume-text-center {

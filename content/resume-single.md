@@ -15,7 +15,7 @@ draft: true
 
 {{< resume-subsection-start "2017 – 2019" >}}
 
-#### Software Developer, OSIsoft LLC, San Leandro, CA
+{{< resume-subsection-title "Software Developer" ", OSIsoft LLC, San Leandro, CA" >}}
 
 OSIsoft provides a data infrastructure used by 65% of the industrial Fortune 500, deployed on over 19,000 sites, and collecting 1.5+ billion data streams worldwide. My team was working on bringing OSIsoft’s data infrastructure into the cloud. At OSIsoft, I worked on a pub sub data pipeline that routes data to our distributed data store. We were building this with microservices hosted in Microsoft’s Azure Service Fabric. 
 
@@ -34,7 +34,7 @@ My team was responsible for developing these new microservices, supporting our l
 
 {{< resume-subsection-start "2016 – 2017" >}}
 
-#### IT Developer, OSIsoft LLC, San Leandro, CA
+{{< resume-subsection-title "IT Developer" ", OSIsoft LLC, San Leandro, CA" >}}
 
 A colleague and I moved to IT to form a development team of just the two of us and continued working closely with the Customer Support Department – pitching, designing, developing, and releasing applications for their use. Our main project was a Windows Form utility to help Tech Support engineers troubleshoot a customer’s system. The app would run a series of modules in parallel to attempt to isolate issues and report them to the Tech Support engineer. Unfortunately, the project was killed because another engineering team was already working on a similar project. 
 
@@ -43,7 +43,7 @@ A colleague and I moved to IT to form a development team of just the two of us a
 
 {{< resume-subsection-start "2015 – 2016" >}}
 
-#### Customer Support Engineer, OSIsoft LLC, San Leandro, CA
+{{< resume-subsection-title "Customer Support Engineer" ", OSIsoft LLC, San Leandro, CA" >}}
 
 Rotated between Tech Support and Field Service departments. Both required working directly with customers to install, upgrade, and troubleshoot the OSIsoft product suite. On Tech Support, I closed over 500 cases and was in the top 10% of engineers by closed cases. 
 
@@ -67,7 +67,7 @@ Nothin But Scores is a service that posts ﬁnal scores from sporting events to 
 
 {{< resume-subsection-start "2010 – 2014" >}}
 
-BS, Mechanical Engineering, University of Wisconsin - Madison, Madison, WI.
+BS, Mechanical Engineering, University of Wisconsin - Madison, Madison, WI
 
 {{< resume-subsection-end >}}
 
