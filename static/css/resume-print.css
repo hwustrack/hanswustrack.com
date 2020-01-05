@@ -1,0 +1,59 @@
+#breadcrumbs {
+    display: none;
+}
+
+#sidebar-toggler {
+    display: none;
+}
+
+.resume-container {
+    max-width: initial;
+}
+
+#resume-title {
+    display: block;
+}
+
+.resume-print-show {
+    display: block;
+}
+
+.main {
+    padding: 2.25em 2.25em 2.25em 1.5em;
+    font-size: 80%;
+}
+
+.title, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.125em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1.25em;
+}
+
+.resume-section-title {
+    margin: 0.125em 0 0.125em;
+}
+
+.resume-subsection {
+    margin: 0.125em 0 0 0;
+}
+
+#footer {
+    text-align: center;
+    display: table;
+    margin: 0 auto;
+}
+
+.sep-after:after, .sep-before:before {
+    width: auto;
+    margin: 1.5em 0 0.5em;
+}
+
+.copyright {
+    display: none;
+}
