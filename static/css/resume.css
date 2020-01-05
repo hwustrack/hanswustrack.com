@@ -75,7 +75,7 @@
 }
 
 /* small screen */
-@media screen and (max-width: 920px) {
+@media screen and (max-width: 480px) {
     .resume-contact-info {
         text-align: left;
     }
