@@ -2,6 +2,10 @@
     max-width: 64rem;
 }
 
+.main {
+    padding-right: 1em;
+}
+
 .resume-container ul {
     margin: 0 0 0 1.5em;
 }
@@ -69,7 +73,10 @@
     font-weight: normal;
     font-size: 90%;
 }
-  
-.resume-text-center {
-    text-align: center !important;
+
+/* small screen */
+@media screen and (max-width: 920px) {
+    .resume-contact-info {
+        text-align: left;
+    }
 }
