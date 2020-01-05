@@ -20,6 +20,7 @@ location: "Wellington, New Zealand"
 OSIsoft provides a data infrastructure used by 65% of the industrial Fortune 500, deployed on over 19,000 sites, and collecting 1.5+ billion data streams worldwide. My team was working on bringing OSIsoft’s data infrastructure into the cloud. At OSIsoft, I worked on a pub sub data pipeline that routes data to our distributed data store. We were building this with microservices hosted in Microsoft’s Azure Service Fabric.
 
 My team was responsible for developing these new microservices, supporting our legacy cloud platform, and maintaining our json based message speciﬁcation. Accomplishments:
+
 - Worked with a small team to migrate our backend from Azure Table Storage to Azure SQL
   - Designed and benchmarked the schema 
   - Rewrote our storage layer using Entity Framework Core 
@@ -73,7 +74,7 @@ BS, Mechanical Engineering, University of Wisconsin - Madison, Madison, WI
 
 {{< resume-subsection-start "GPA" >}}
 
-3.72/4.0
+3.72 / 4.0
 
 {{< resume-subsection-end >}}
 
