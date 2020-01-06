@@ -1,7 +1,6 @@
 ---
 title: "Skydiving in the Adventure Capital of the World"
 date: 2020-01-04T12:37:48+13:00
-draft: true
 ---
 
 After two canceled appointments due to Queenstown’s unpredictable weather, we were finally able to hurl ourselves out of an airplane, and wow, was it amazing! We were driven into the countryside, given a (not as extensive as you’d expect) safety chat, got geared up in our onesies, gloves, goggles, & goofy bald caps, and finally met our Tandem Masters, the certified skydiving pros who we'd be strapped to during the jump. Hans’ partner was Marcel, a quiet bald man with a long beard, while Kay’s partner was quite the opposite. His name was Jambo and he’s exactly what you’re picturing right now - a tall, lanky goofball with hair down to his shoulders who chatted nonstop and gave Kay the hang loose sign with every other word he spoke. He had apparently done over 4,000 jumps! As we were walking to the plane, Jambo gave Kay the news that they’d be the first to jump; he was as excited about that as Kay was nervous... 

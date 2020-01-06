@@ -1,7 +1,6 @@
 ---
 title: "Aoraki / Mount Cook National Park"
 date: 2020-01-04T12:36:53+13:00
-draft: true
 ---
 
 Our next few stops were all over the map, since, as we mentioned in the last post, our travel plan had gradually turned into simply chasing the sunshine. The home to the highest peak in NZ - Aoraki / Mount Cook National Park (Aoraki is the Maori name) - had rain in the forecast everyday for upwards of two weeks at a time, so as soon as we saw a couple day break in the rain, we hurried up there. Some of our favorites from Aoraki / Mount Cook include:

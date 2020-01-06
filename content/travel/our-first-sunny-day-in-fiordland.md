@@ -1,7 +1,6 @@
 ---
 title: "Our First Sunny Day in Fiordland"
 date: 2020-01-04T12:39:59+13:00
-draft: true
 ---
 
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1578095268/hanswustrack.com/our-first-sunny-day-in-fiordland/IMG_7630_ftnp0g.jpg "Milford Sound with Mitre Peak left center")
