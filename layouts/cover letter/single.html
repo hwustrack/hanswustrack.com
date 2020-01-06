@@ -1,0 +1,18 @@
+{{ partial "header" . }}
+
+<article class="cover-letter-container">
+    <div class="cover-letter-header">
+        <h1 class="cover-letter-title">{{ $.Param "print-title" }}</h1>
+
+        <ul class="cover-letter-contact-info">
+            <li><a href='https://{{ $.Param "homepage" }}'>{{ $.Param "homepage" }}</a></li>
+            <li><a href='mailto:{{ $.Param "email" }}'>{{ $.Param "email" }}</a></li>
+            <li>{{ $.Param "phone-number" }}</li>
+            <li>{{ $.Param "location" }}</li>
+        </ul>
+    </div>
+
+    {{ .Content }}
+</article>
+
+{{ partial "resume/footer" . }}

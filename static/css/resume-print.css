@@ -57,3 +57,11 @@ h4 {
 .copyright {
     display: none;
 }
+
+form {
+    display: none;
+}
+
+.entry-nav {
+    display: none;
+}
