@@ -4,10 +4,10 @@ date: 2020-01-04T12:39:59+13:00
 draft: true
 ---
 
-![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1578095268/hanswustrack.com/our-first-sunny-day-in-fiordland/IMG_7630_ftnp0g.jpg "Milford Sound")
+![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1578095268/hanswustrack.com/our-first-sunny-day-in-fiordland/IMG_7630_ftnp0g.jpg "Milford Sound with Mitre Peak left center")
 
 ##### Milford Sound
-If you’ve seen a picture of New Zealand, it’s probably of Milford Sound. If you haven't, see above. Similar to Doubtful Sound (mentioned a few posts ago...the cruise through the fjords in the pouring rain), Milford Sound is an expansive fjord in Fiordland National Park, famous for its towering, pointed peak, Mitre Peak. Like Doubtful, you explore Milford Sound via a cruise. The drive to Milford Sound is long, winding, and a bit sketchy, and while most cruise providers do offer coach buses from town, we elected to drive ourselves, which was fun because we got to stop at lookouts at our leisure and also stop for a hike in Fiordland after the boat ride. 
+If you’ve only seen one picture of New Zealand, we'll bet that it's of Milford Sound. If you haven't, see above. Similar to Doubtful Sound (mentioned a few posts ago...the cruise through the fjords in the pouring rain), Milford Sound is an expansive fjord in Fiordland National Park, famous for its towering, pointed peak, Mitre Peak. Like Doubtful, you explore Milford Sound via a cruise. The drive to Milford Sound is long, winding, and a bit sketchy, and while most cruise providers do offer coach buses from town, we elected to drive ourselves, which was fun because we got to stop at lookouts at our leisure and also stop for a hike in Fiordland after the boat ride. 
 
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1578095264/hanswustrack.com/our-first-sunny-day-in-fiordland/IMG_7205_dgtitj.jpg "Waterfall on Milford Sound")
 
