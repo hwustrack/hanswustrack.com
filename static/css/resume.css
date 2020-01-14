@@ -44,8 +44,8 @@
 
 .resume-section-title {
     position: relative;
-    display: flex; /* sets a flex container */
-    align-items: center; /* aligns vertically */
+    display: flex;
+    align-items: center;
     margin: 0.625em 0 0.625em;
 }
   
