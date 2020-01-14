@@ -1,3 +1,4 @@
+/* could just use @media print so I don't need this separate file and don't need to override default head.thml from theme */
 #breadcrumbs {
     display: none;
 }
