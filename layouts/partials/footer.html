@@ -1,11 +1,12 @@
+<!-- subscribe button in footer -->
+
 </main>
 
 <footer id='footer' class='footer'>
   <div class='container sep-before'>
-      <form name="subscribe" method="POST" data-netlify="true">
-        <input type="email" name="email" placeholder="Enter your email" id="subscribeEmailInput" required>
-        <button type=submit>Subscribe</button>
-      </form>
+    <a href="/subscribe">
+      <button>Subscribe</button>
+    </a>
     {{- $footerWidgets := .Site.Params.widgets.footer -}}
     {{- partial "extras/widget_area" ( dict "Widgets" $footerWidgets "Scope" . ) -}}
     {{ partial "footer/copyright" . }}

@@ -1,0 +1,21 @@
+<!-- no date in entry header and no entry nav -->
+
+{{ partial "header" . }}
+
+<article lang='{{ .Params.lang | default .Lang }}' class='entry'>
+    <header class='header entry-header'>
+        <div class='container sep-after'>
+            <div class='header-info'>
+                <h1 class='title'>
+                    {{- .Title -}}
+                </h1>
+                {{ partial "header/description" . }}
+            </div>
+        </div>
+    </header>
+
+    {{ partial "entry/content" . }}
+    {{ partial "entry/footer" . }}
+</article>
+
+{{ partial "resume/footer" . }}
