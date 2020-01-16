@@ -5,6 +5,10 @@
     line-height: normal;
 }
 
+.recaptcha {
+    margin-top: 0.5em;
+}
+
 img {
     /* center image */
     display: block;

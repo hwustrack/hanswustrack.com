@@ -5,7 +5,7 @@
       <form name="subscribe" method="POST" data-netlify-recaptcha="true" data-netlify="true">
         <input type="email" name="email" placeholder="Enter your email" id="subscribeEmailInput" required>
         <button type=submit>Subscribe</button>
-        <div data-netlify-recaptcha="true"></div>
+        <div class="recaptcha" data-netlify-recaptcha="true"></div>
       </form>
     {{- $footerWidgets := .Site.Params.widgets.footer -}}
     {{- partial "extras/widget_area" ( dict "Widgets" $footerWidgets "Scope" . ) -}}
