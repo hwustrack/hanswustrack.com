@@ -11,16 +11,20 @@ It would also be worth checking out some recruiting agencies - [Beyond](https://
 
 **Company**|**Product/Service**|**Primary language/framework**
 :-----:|:-----:|:-----:
-[Xero](https://www.xero.com/nz/about/careers/openings/)|Accounting Saas|.NET
-[Raygun](https://raygun.com/careers)|Application monitoring Saas|.NET
+[Xero](https://www.xero.com/nz/about/careers/openings/)|Accounting SaaS|.NET
+[Raygun](https://raygun.com/careers)|Application monitoring SaaS|.NET
 [Timely](https://www.gettimely.com/careers/)|Salon and Spa SaaS|.NET
 [Trade Me](https://jobs.jobvite.com/trademe/jobs)|Marketplace like eBay|.NET
 [Abletech](https://abletech.nz/jobs/)|Dev services|Ruby on Rails
 [Optimal Workshop](https://www.optimalworkshop.com/careers#jobopenings)|UX design tools| 
+[Storypark](https://www.storypark.com/nz/careers)|Child education SaaS| Ruby on Rails, mobile
+[YouDo](https://www.youdo.co.nz/about)|Web dev services| 
 [Touchtech](https://touchtechlabs.com/team/)|Dev services| 
 [Ackama](https://www.ackama.com/careers)|Web dev services|Ruby on Rails
+[Flux Federation](https://fluxfederation.com/careers/opportunities/)|Energy retailing SaaS| 
 [Xequals](https://xequals.nz/job-offering-xequals)|Web dev services|Drupal
 [Boost](https://www.boost.co.nz/pages/careers)|Web dev services|Ruby on Rails
+[Catalyst](https://www.catalyst.net.nz/jobs)|Dev services|Open source
 [Alphero](https://www.alphero.com/talk)|Web dev services focus on design| 
 [8i](https://www.8i.com/careers)|Hologram products| 
 [effect](https://effect.nz/)|Web dev services| 
