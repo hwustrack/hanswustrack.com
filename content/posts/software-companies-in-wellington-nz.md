@@ -26,6 +26,7 @@ It would also be worth checking out some recruiting agencies - [Beyond](https://
 [Boost](https://www.boost.co.nz/pages/careers)|Web dev services|Ruby on Rails
 [Catalyst](https://www.catalyst.net.nz/jobs)|Dev services|Open source
 [Alphero](https://www.alphero.com/talk)|Web dev services focus on design| 
+[optimation](https://www.optimation.co.nz/join-the-team/)|Dev services| 
 [8i](https://www.8i.com/careers)|Hologram products| 
 [effect](https://effect.nz/)|Web dev services| 
 [Intela.ai](https://intela.ai/)|ML services| 
