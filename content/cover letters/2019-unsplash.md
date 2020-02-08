@@ -6,13 +6,15 @@ draft: true
 
 Hello.
 
-I'm writing this from the back of a 2001 converted Toyota minivan, as the sun peaks over the surrounding hills. My girlfriend and I are laying on a 4 x 6 ft platform bed in the back and somehow she manages to sleep despite my elbows knocking into her as I type.
+It's been 5 months since I quit my job. In that time I've driven over 5k miles and eaten too many freeze dried meals to count. I quit my job in SF last year and moved to New Zealand with my girlfriend to see sites and climb mountains while we still can. 
 
-It's been 5 months since I quit my job. In that time I've driven over 5k miles and woken up in a van many mornings. I quit my job in SF last year and moved to New Zealand with my girlfriend to see sites and climb mountains while we still can. There are many things I don't miss about my life in SF, but one thing I do miss is writing software. I've worked on a few projects while holed up in the van during rainy stretches on our trip - a blog chronicling our journey and a service that posts sports scores to Twitter, NothinButScores.com.
+In my previous role, I worked on a data ingestion API that was built with microservices running in Azure. It was a Microsoft shop through and through, so I have lots of experience with Microsoft technologies - C#, NET Core, MS SQL, Azure, etc. 
 
-I came across Unsplash on Twitter and wanted to apply. I would love to work in a place that has a positive mission and is realistic about how people work these days. I thrive when I'm part of a close-knit team. In that environment, I always try to help out fellow team members and I'll do anything not to let the team down. Starting my career as a manufacturing engineer, moving to frontline tech support has shaped my pragmatic problem solving approach as a software developer. I love diving deep on a complex feature, but am also happy to push a hotfix when customers are waiting. I'd love to talk more about the type of positions you're hoping to fill at Unsplash as I think I could really fit in well.
+Since being on the road, I've worked on a few projects while holed up in the van during rainy stretches on our trip - a blog chronicling our journey, hanswustrack.com, and a service that posts sports scores to Twitter, NothinButScores.com. The websites for these projects were all built with Hugo, a static site generator written in Go. The NothinButScores service is a serverless function that hits a sports API and then posts to Twitter. 
 
-Welp time to wake my girlfriend up and head off to backpack in Fiordland. See more of my journey at hanswustrack.com or let's have a chat and I can tell you all about it.
+I came across Unsplash in a Twitter conversation about great companies. I would love to work in a place that has a positive mission and is realistic about how people work these days. I thrive when I'm part of a close-knit team. Starting my career as a manufacturing engineer, moving to frontline tech support has shaped my pragmatic problem solving approach as a software developer. I love diving deep on a complex feature, but am also happy to push a hotfix when customers are waiting. 
+
+I'd love to talk more about the type of positions you're hoping to fill at Unsplash as I think I could really fit in well. We have an apartment in Wellington, NZ now, so the Skype connection should be a bit better than I was getting in the van.
 
 {{< cover-letter-closing "Appreciate your time," "Hans Wustrack" >}}
 
