@@ -6,18 +6,19 @@ draft: true
 
 Hello.
 
-I'm writing this from the back of a 2001 camper van (well actually just a mini van), scrunched up next to my sleeping girlfriend. I'm laying on a 4 x 6 ft a platform bed in the back and somehow my girlfriend is sleeping as I elbow her in the back while typing. 
+I'm writing this from the back of a 2001 converted Toyota minivan, as the sun peaks over the surrounding hills. My girlfriend and I are laying on a 4 x 6 ft platform bed in the back and somehow she manages to sleep despite my elbows knocking into her as I type.
 
-It's been 5 months since I quit my job. In that time I've driven over 4k miles and woken up in a van looking out onto the mountains for about half of that. I quit my job in SF last year and moved to New Zealand. I've been driving around in a van with my girlfriend to see sites and climb mountains while we still can. One of the things I miss most is writing software. I've worked on a few projects as we've snaked through the hills, a blog chronicling the journey and a service that posts sports scores to Twitter, NothinButScores.com.
+It's been 5 months since I quit my job. In that time I've driven over 5k miles and woken up in a van many mornings. I quit my job in SF last year and moved to New Zealand with my girlfriend to see sites and climb mountains while we still can. There are many things I don't miss about my life in SF, but one thing I do miss is writing software. I've worked on a few projects while holed up in the van during rainy stretches on our trip - a blog chronicling our journey and a service that posts sports scores to Twitter, NothinButScores.com.
 
-I would love to work in a place that's flexible and doing good in the world. I love working with a close knit team and when put in that environment, I'll do anything not to let the team down. I think my diverse background, starting as a manufacturing engineer, to tech support, finally to development, has instilled a pragmatic problem solving approach to development. Happy to dive deep on a complex feature/bug, but can also push out a hotfix when customers are waiting on it.
+I came across Unsplash on Twitter and wanted to apply. I would love to work in a place that has a positive mission and is realistic about how people work these days. I thrive when I'm part of a close-knit team. In that environment, I always try to help out fellow team members and I'll do anything not to let the team down. Starting my career as a manufacturing engineer, moving to frontline tech support, and finally software development, I take a pragmatic problem solving approach to development. I'm love diving deep on a complex feature, but am also happy to push a hotfix when customers are waiting. I'd love to talk more about the type of positions you're hoping to fill at Unsplash as I think I could really fit in well.
 
-Welp I'm headed off to a backpacking trip in Fiordland. Find more about about the journey at hanswustrack.com or let's have a chat and I can tell you all about it.
+Welp time to wake my girlfriend up and head off to backpack in Fiordland. See more of my journey at hanswustrack.com or let's have a chat and I can tell you all about it.
 
-Appreciate your time,
-Hans Wustrack
+{{< cover-letter-closing "Appreciate your time," "Hans Wustrack" >}}
 
+---
 
+Joke about NZ being really pretty and all outdoor pictures being from here?
 
 This makes me think about what I miss about my old job too - working with a close knit team,
 
@@ -34,6 +35,8 @@ Hans Wustrack
 - Explain how I like to work
 - End with another quick line about being in NZ
 - Closing link to blog, let's chat
+
+---
 
 - About me
     - Problem solving approach
