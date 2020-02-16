@@ -7,8 +7,8 @@ date: 2020-02-16T14:10:53+13:00
 
 **TLDR**
 - Sign up for the [Unsplash API](https://unsplash.com/developers) and save your access key in credential manager under the name 'unsplash'.
-- Set [this PowerShel](https://github.com/hwustrack/GetUnsplashWallpaperPs) script to run as a scheduled task. It will download a random photo from Unsplash and save it to the local directory.
-- Set your Windows background as a slideshow with the directory you put the PowerShel script in as the album.
+- Set [this PowerShell](https://github.com/hwustrack/GetUnsplashWallpaperPs) script to run as a scheduled task. It will download a random photo from Unsplash and save it to the local directory.
+- Set your Windows background as a slideshow with the directory you put the PowerShell script in as the album.
 
 # Background
 I've really liked Windows Spotlight since it was introduced. Who wouldn't want an endless series of beautiful images on your lock screen? Unfortunately, this  isn't officially supported for updating your background, only your lock screen. After seeing [this blog post](https://thenextweb.com/basics/2019/07/05/how-to-grab-beautiful-free-wallpapers-for-your-iphone-or-ipad-with-a-quick-shortcut/) outlining how to automatically get a great background photo for your iPhone or iPad, I knew I wanted to set this up on my laptop.
