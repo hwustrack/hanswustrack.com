@@ -5,6 +5,9 @@ theme = "minimo"
 
 sectionPagesMenu = "main"
 
+pygmentsCodefences = true
+pygmentsStyle = "pygments"
+
 [params.info]
 # description = ""
 title404 = "params.info title404 text"
