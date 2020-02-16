@@ -5,12 +5,15 @@ theme = "minimo"
 
 sectionPagesMenu = "main"
 
+pygmentsCodefences = true
+pygmentsStyle = "pygments"
+
 [params.info]
 # description = ""
 title404 = "params.info title404 text"
 
 [params.assets]
-customCSS = ["css/custom.css", "css/resume.css"]
+customCSS = ["css/custom.css", "css/resume.css", "css/cover-letter.css"]
 customCSSPrint = ["css/resume-print.css"]
 
 [params.sidebar]

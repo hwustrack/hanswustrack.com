@@ -1,0 +1,32 @@
+.cover-letter-container {
+    max-width: 64rem;
+}
+
+.cover-letter-container a {
+    text-decoration: underline;
+}
+
+.cover-letter-container table {
+    margin: 2em 0 0 0;
+}
+
+.cover-letter-container .highlight {
+    margin-top: 2em;
+}
+
+.cover-letter-title {
+    text-align: center;
+    padding-bottom: 0.125em;
+    border-bottom: 2px solid #ffcd00;
+}
+
+.cover-letter-contact-info {
+    list-style-type:none;
+    text-align: right;
+    font-size: 90%;
+    margin: 1.5em 0 0;
+}
+
+.cover-letter-closing {
+    margin: 0;
+}
