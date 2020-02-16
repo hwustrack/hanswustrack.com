@@ -6,6 +6,7 @@ date: 2020-02-16T14:10:53+13:00
 [Unsplash](https://unsplash.com/) is a great resource for free, high-quality, images. After seeing [this blog post](https://thenextweb.com/basics/2019/07/05/how-to-grab-beautiful-free-wallpapers-for-your-iphone-or-ipad-with-a-quick-shortcut/) outlining how to automatically get a great background photo for your iPhone or iPad, I wanted to try the same my Windows laptop.
 
 **TLDR**
+
 - Sign up for the [Unsplash API](https://unsplash.com/developers) and save your access key in credential manager under the name 'unsplash'.
 - Set [this PowerShell](https://github.com/hwustrack/GetUnsplashWallpaperPs) script to run as a scheduled task. It will download a random photo from Unsplash and save it to the local directory.
 - Set your Windows background as a slideshow with the directory you put the PowerShell script in as the album.
@@ -79,5 +80,5 @@ Now we have a script that will download a random photo in the size we want. Next
 # Finishing up
 It's awesome that Unsplash offers these photos completely for free and has a flexible API. I did have a hard time finding the collections I would want a photo from, so it'd be nice if you could filter based on the categories on the homepage (e.g. Wallpapers, Textures & Patterns, Nature, etc.), but once you've found the collections you like, everything else was straightforward.
 
-Find the full PowerShell script on [GitHub](https://github.com/hwustrack/GetUnsplashWallpaperPs).
-Find the full Unsplash API documentation [here](https://unsplash.com/documentation).
+- Find the full PowerShell script on [GitHub](https://github.com/hwustrack/GetUnsplashWallpaperPs).
+- Find the full Unsplash API documentation [here](https://unsplash.com/documentation).
