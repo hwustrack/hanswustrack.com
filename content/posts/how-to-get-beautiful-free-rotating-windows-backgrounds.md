@@ -39,7 +39,7 @@ $randomPhotoUrl = $baseUrl + "/photos/random"
 $headers = @{ "Accept-Version" = "v1"; Authorization = "Client-ID $access_key" }
 $params = @{ collections = $collections; orientation = "landscape" }
 ```
-Unsplash's API lets you get random photos based on optional of parameters. Here, we provide a set of collections the photo should be chosen from and specify the orientation should be landscape. Collections are a user created group of photos. I selected a few random collections by browsing through the top nature ones. Browse to find your favorite wallpaper collections [here](https://unsplash.com/wallpapers).
+Unsplash's API lets you get random photos based on optional of parameters. Here, we provide a set of collections the photo should be chosen from and specify the orientation should be landscape. Collections are a user created group of photos. I selected a few random collections by browsing through the top nature ones. Browse to find your favorite wallpaper collections [here](https://unsplash.com/explore/collections).
 
 The rest of this code is just setting up the HTTP request and parameters for getting the random photo.
 
@@ -68,14 +68,15 @@ Finally, we'll clean up old files so the directory doesn't fill up unnecessary d
 ```ps1
 Get-ChildItem -Path .\* -Include ("*.jpg", "*.txt") | Where-Object {$_.CreationTime -lt (Get-Date).AddMinutes(-60)} | Remove-Item
 ```
-This will delete any photo and text file older than 60 minutes.
+This will delete any jpg, txt files older than 60 minutes that are in the script's directory.
 
 Now we have a script that will download a random photo in the size we want. Next we'll configure this to run periodically and for Windows to use photos from this directory as the background.
 
 # Configuration
 
-- Set the script to run periodically as a scheduled task: https://blog.netwrix.com/2018/07/03/how-to-automate-powershell-scripts-with-task-scheduler/
-- Set your Windows background as a Slideshow with the script directory as the album: https://www.windowscentral.com/enable-windows10-slideshow-and-battery
+- Create a new empty directory and copy the script into this directory. This is what will be used fro the Windows Slideshow.
+- Set the script to run periodically as a scheduled task: https://blog.netwrix.com/2018/07/03/how-to-automate-powershell-scripts-with-task-scheduler/. I set mine to run on a trigger every 30 minutes, but feel free to run it as often as you like.
+- Set your Windows background as a Slideshow with the new script directory as the album: https://www.windowscentral.com/enable-windows10-slideshow-and-battery.
 
 # Finishing up
 It's awesome that Unsplash offers these photos completely for free and has a flexible API. I did have a hard time finding the collections I would want a photo from, so it'd be nice if you could filter based on the categories on the homepage (e.g. Wallpapers, Textures & Patterns, Nature, etc.), but once you've found the collections you like, everything else was straightforward.
