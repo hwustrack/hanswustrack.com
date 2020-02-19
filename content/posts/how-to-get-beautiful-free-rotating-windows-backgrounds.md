@@ -8,7 +8,7 @@ date: 2020-02-16T14:10:53+13:00
 **TLDR**
 
 - Sign up for the [Unsplash API](https://unsplash.com/developers) and save your access key in credential manager under the name 'unsplash'.
-- Set [this PowerShell](https://github.com/hwustrack/GetUnsplashWallpaperPs) script to run as a scheduled task. It will download a random photo from Unsplash and save it to the local directory.
+- Set [this PowerShell script](https://github.com/hwustrack/GetUnsplashWallpaperPs) to run as a scheduled task. It will download a random photo from Unsplash and save it to the local directory.
 - Set your Windows background as a slideshow with the directory you put the PowerShell script in as the album.
 
 # Background
@@ -17,7 +17,7 @@ I've really liked Windows Spotlight since it was introduced. Who wouldn't want a
 # Getting started
 - Sign up for a free developer account on the [Unsplash developer portal](https://unsplash.com/developers) to get API access.
 - Create an application in the portal and copy the Access Key value.
-- Save the Access Key in Windows Credential Manager so it's safe but available to our script. Create a Generic Windows Credential in Credential Manager.
+- Save the Access Key in Windows Credential Manager so it's safe but available to our script. Create a Generic Windows Credential in Credential Manager:
   - Set the 'Internet or network address' to 'unsplash'.
   - Add anything for 'User name', we won't use this value.
   - Paste the Access Key you copied into the Password field
@@ -74,7 +74,7 @@ Now we have a script that will download a random photo in the size we want. Next
 
 # Configuration
 
-- Create a new empty directory and copy the script into this directory. This is what will be used fro the Windows Slideshow.
+- Create a new empty directory and copy the script into it. This directory is where the background images will be downloaded and should be used as the directory for the Windows Slideshow.
 - Set the script to run periodically as a scheduled task: https://blog.netwrix.com/2018/07/03/how-to-automate-powershell-scripts-with-task-scheduler/. I set mine to run on a trigger every 30 minutes, but feel free to run it as often as you like.
 - Set your Windows background as a Slideshow with the new script directory as the album: https://www.windowscentral.com/enable-windows10-slideshow-and-battery.
 
