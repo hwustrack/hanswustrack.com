@@ -66,16 +66,16 @@ $sel | Format-List | Out-File -FilePath ".\$id.txt"
 
 Finally, we'll clean up old files so the directory doesn't fill up unnecessary disk space.
 ```ps1
-Get-ChildItem -Path .\* -Include ("*.jpg", "*.txt") | Where-Object {$_.CreationTime -lt (Get-Date).AddMinutes(-60)} | Remove-Item
+Get-ChildItem -Path .\* -Include ("*.jpg", "*.txt") | Where-Object {$_.CreationTime -lt (Get-Date).AddDays(-3)} | Remove-Item
 ```
-This will delete any jpg, txt files older than 60 minutes that are in the script's directory.
+This will delete any jpg, txt files older than 2 days that are in the script's directory.
 
 Now we have a script that will download a random photo in the size we want. Next we'll configure this to run periodically and for Windows to use photos from this directory as the background.
 
 # Configuration
 
 - Create a new empty directory and copy the script into it. This directory is where the background images will be downloaded and should be used as the directory for the Windows Slideshow.
-- Set the script to run periodically as a scheduled task: https://blog.netwrix.com/2018/07/03/how-to-automate-powershell-scripts-with-task-scheduler/. I set mine to run on a trigger every 30 minutes, but feel free to run it as often as you like.
+- Set the script to run periodically as a scheduled task: https://blog.netwrix.com/2018/07/03/how-to-automate-powershell-scripts-with-task-scheduler/. I set mine to run on a trigger every morning. With deleting photos older than 3 days, this should keep a few fresh images in the directory to cycle through without running the script too often. Feel free to customize these parameters as you see fit.
 - Set your Windows background as a Slideshow with the new script directory as the album: https://www.windowscentral.com/enable-windows10-slideshow-and-battery.
 
 # Finishing up
