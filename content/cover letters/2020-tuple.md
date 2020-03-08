@@ -7,6 +7,8 @@ draft: true
 # Where do you live?
 I'm currently living in Wellington, New Zealand. In August of last year, I quit my job in the Bay Area and moved to New Zealand on a work holiday visa to travel and work for the year with my girlfriend. We spent the first few months traveling in a camper van (think christmas lights and kitchen in the trunk) and now we're settled in Wellington for the rest of our stay. We're planning to be here for another few months before moving back to the US.
 
+(Here in Wellington, we're 17 hours ahead of you in Boston, and I keep early hours, so I think there should be plenty of overlap)
+
 # What's your background? What are you interested in?
 My journey to software has been a bit meandering. I started as a mechanical engineer in aerospace, transitioned to a software company working in tech support, and finally found my way to software development. My last position was easily the happiest of my career and I'm excited to take on a new challenge.
 
@@ -47,7 +49,7 @@ https://github.com/hwustrack is my GitHub account. Some projects I'm proud of th
 
 # Anything else you'd like to tell us? (optional)
 After 6 months of traveling in New Zealand, I'm ready to jump into a new challenge. I realize my experience does not overlap much with the technologies Tuple is built on, which may be a concern. Here are the steps I'd take before I started to get up to speed asap (in no particular order):
-- Buy a macbook (I said no order, but this like a good first)
+- Buy a macbook (I said no order, but this seems like a good first)
 - Buy books on Swift and C++ programming
 - Ask the team what aspect of the product I'll start on, so I can be sure to focus on learning those skills first
 - Split time between
@@ -58,6 +60,7 @@ What you can expect working with me:
 - I keep early hours, so I'd be happy to start my day pairing with Spencer, if he doesn't mind having those sessions in your afternoon
 - Clear communication
 - Dependability - I love working on a close knit team
+- Pragmatism - I'm happy to work on whatever the team needs (in my last job I spent a month working on licensing our public libraries, hopefully it doesn't come to that...)
 - Curiosity - I'll be curious about all aspects of the business, although I'll certainly put all of my energy into the tech to start
 
-I'm really excited to apply and I'd love to talk to you guys more about working together. The Zoom connection should be a bit better clearer than I was getting in the camper van.
+I'm really excited to apply and I'd love to talk to you guys more about working together. The video connection should be a bit better clearer than I was getting in the camper van.
