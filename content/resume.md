@@ -110,7 +110,7 @@ C#, JavaScript
 
 {{< resume-subsection-start "Languages" >}}
 
-PHP, Java, Python, C
+Python, PHP, Java, C
 
 {{< resume-subsection-end >}}
 
