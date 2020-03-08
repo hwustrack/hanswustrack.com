@@ -15,13 +15,3 @@ Since leaving my job, I've driven over 5k miles in a camper van, hiked over 100 
 I'd love to talk more about the type of positions you're hoping to fill at Unsplash as I think I could really fit in well. We have an apartment in Wellington, NZ now, so the Skype connection should be a bit better than I was getting in the van.
 
 {{< cover-letter-closing "Appreciate your time," "Hans Wustrack" >}}
-
----
-
-https://verify-email.org/
-- mikael@unsplash.com
-
-
-jobs@unsplash.com is BAD
-careers@unsplash.com is BAD
-hello@unsplash.com is BAD
