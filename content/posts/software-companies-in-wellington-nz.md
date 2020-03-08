@@ -7,7 +7,7 @@ When looking for a software job in Wellington, New Zealand, I had a hard time fi
 
 These are all New Zealand based companies, most with their headquarters in Wellington. Some big international software companies have offices in Wellington too, like Microsoft, Google, and Oracle.
 
-It would also be worth checking out some recruiting agencies - [absoluteIT](https://www.absoluteit.co.nz/it-jobs) and [Presto](https://prestoresourcing.co.nz/find-work/current-jobs/). [Trade Me jobs](https://www.trademe.co.nz/jobs) is worth a look too.
+It would also be worth checking out some recruiting agencies - [absoluteIT](https://www.absoluteit.co.nz/it-jobs) and [Presto](https://prestoresourcing.co.nz/find-work/current-jobs/). [Seek](https://www.seek.co.nz/software-jobs/in-Wellington-Central-Wellington) is worth a look too.
 
 **Company**|**Product/Service**|**Primary language/framework**
 :-----:|:-----:|:-----:
