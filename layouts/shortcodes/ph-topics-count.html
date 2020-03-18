@@ -1,0 +1,71 @@
+<figure class="highcharts-figure">
+  <div id="topic_count_container"></div>
+</figure>
+
+<script>
+  Highcharts.chart("topic_count_container", {
+    chart: {
+      type: "bar"
+    },
+    title: {
+      text: ""
+    },
+    xAxis: {
+      categories: [
+        "Productivity",
+        "Tech",
+        "Developer Tools",
+        "Design Tools",
+        "Web App",
+        "Marketing",
+        "User Experience",
+        "iPhone",
+        "SaaS",
+        "Artificial Intelligence",
+        "Android",
+        "Social Media Tools",
+        "Mac",
+        "Education",
+        "Chrome Extensions",
+        "Fintech",
+        "Analytics",
+        "Email",
+        "Crypto",
+        "Growth Hacking"
+      ],
+      title: {
+        text: null
+      }
+    },
+    credits: {
+      enabled: false
+    },
+    series: [
+      {
+        name: "Count",
+        data: [
+          737,
+          709,
+          442,
+          377,
+          351,
+          344,
+          220,
+          218,
+          171,
+          144,
+          106,
+          95,
+          88,
+          85,
+          78,
+          78,
+          69,
+          63,
+          62,
+          61
+        ]
+      }
+    ]
+  });
+</script>
