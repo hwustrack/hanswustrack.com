@@ -1,9 +1,9 @@
 <figure class="highcharts-figure">
-  <div id="topic_votes_container"></div>
+  <div id="topic_votes_std_container"></div>
 </figure>
 
 <script>
-  Highcharts.chart("topic_votes_container", {
+  Highcharts.chart("topic_votes_std_container", {
     chart: {
       type: "bar"
     },
@@ -12,16 +12,16 @@
     },
     xAxis: {
       categories: [
-        "Product Hunt",
-        "Spreadsheets",
-        "Investing",
-        "Advertising",
-        "Growth Hacking",
-        "Windows",
-        "Firefox Extensions",
-        "Design Tools",
-        "Startup Lessons",
-        "Funny"
+        "Time Tracking",
+        "Learn a Language",
+        "Meditation",
+        "Hiring and Recruiting",
+        "GitHub",
+        "Fashion",
+        "Payment",
+        "Books",
+        "Maps",
+        "Video Streaming"
       ],
       title: {
         text: null
@@ -33,36 +33,36 @@
     series: [
       {
         name: "Count",
-        data: [14, 22, 31, 21, 61, 25, 16, 377, 21, 13]
+        data: [10, 11, 10, 39, 41, 10, 27, 54, 10, 18]
       },
       {
         name: "Votes Mean",
         data: [
-          902.6,
-          859.1,
-          881.2,
-          880.5,
-          853.5,
-          876.2,
-          811.1,
-          814.5,
-          833.4,
-          824.2
+          511.9,
+          649.1,
+          533.3,
+          572.7,
+          613.9,
+          520.2,
+          611.0,
+          566.6,
+          564.8,
+          663.3
         ]
       },
       {
         name: "Votes Std",
         data: [
-          683.9,
-          405.8,
-          549.7,
-          598.8,
-          791.5,
-          1047.7,
-          477.1,
-          555.1,
-          569.8,
-          584.2
+          150.4,
+          181.4,
+          184.7,
+          207.4,
+          218.1,
+          238.3,
+          239.6,
+          240.1,
+          246.7,
+          247.4
         ]
       }
     ]
