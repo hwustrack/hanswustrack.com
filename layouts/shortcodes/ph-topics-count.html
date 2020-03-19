@@ -5,10 +5,22 @@
 <script>
   Highcharts.chart("topic_count_container", {
     chart: {
-      type: "bar"
+      type: "bar",
+      height: 500
     },
     title: {
       text: ""
+    },
+    plotOptions: {
+      series: {
+        dataLabels: {
+          enabled: true
+        }
+      }
+    },
+    tooltip: { enabled: false },
+    credits: {
+      enabled: false
     },
     xAxis: {
       categories: [
@@ -36,9 +48,6 @@
       title: {
         text: null
       }
-    },
-    credits: {
-      enabled: false
     },
     series: [
       {
