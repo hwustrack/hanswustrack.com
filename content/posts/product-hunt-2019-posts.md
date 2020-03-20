@@ -19,7 +19,7 @@ A bit about the terminology here (which is detailed in the [PH API docs](https:/
 
 {{< ph-top >}}
 
-[INK](https://www.producthunt.com/posts/ink-1c962f43-e6e2-4291-942f-6090712bf2b6) was the clear outlier here.
+[INK](https://www.producthunt.com/posts/ink-1c962f43-e6e2-4291-942f-6090712bf2b6) was the clear outlier here, must be pretty awesome.
 
 ## Vote counts by hour submitted
 
@@ -51,4 +51,4 @@ This second chart is sorted by votes standard deviation.
 
 ## Conclusion
 
-You can see the code I use to retrieve and aggregate the posts [here](https://github.com/hwustrack/ph-queries).
+You can find the code I used to retrieve and aggregate the posts [here](https://github.com/hwustrack/ph-queries).
