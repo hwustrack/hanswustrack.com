@@ -1,4 +1,4 @@
-<figure class="highcharts-figure">
+<!-- <figure class="highcharts-figure">
   <div id="hourly_container"></div>
 </figure>
 
@@ -132,6 +132,323 @@
           300.0,
           414.8,
           217.2
+        ]
+      }
+    ]
+  });
+</script> -->
+
+<div id="hourly_container"></div>
+
+<script>
+  var data = [
+    {
+      name: "Votes Mean",
+      type: "scatter",
+      x: [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      y: [
+        622.3,
+        512.8,
+        373.3,
+        612.0,
+        791.1,
+        779.8,
+        703.1,
+        731.2,
+        623.0,
+        806.8,
+        623.9,
+        620.6,
+        593.3,
+        647.9,
+        641.5,
+        640.2,
+        669.4,
+        626.8,
+        740.6,
+        698.4,
+        679.9,
+        800.5,
+        654.3
+      ]
+    },
+    {
+      name: "Percent Submitted",
+      type: "bar",
+      yaxis: "y2",
+      x: [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      y: [
+        0.57,
+        0.51,
+        0.62,
+        0.15,
+        0.51,
+        0.82,
+        0.51,
+        37.35,
+        32.36,
+        5.35,
+        3.24,
+        2.06,
+        2.73,
+        2.47,
+        2.73,
+        1.7,
+        1.29,
+        1.59,
+        0.62,
+        0.72,
+        0.46,
+        0.77,
+        0.51,
+        0.36
+      ]
+    }
+  ];
+
+  var layout = {
+    yaxis: {
+      title: "Votes Mean",
+      range: [300, 900],
+      titlefont: { color: "rgb(148, 103, 189)" },
+      tickfont: { color: "rgb(148, 103, 189)" },
+      overlaying: "y2",
+      side: "right"
+    },
+    yaxis2: {
+      title: "Percent Submitted",
+      range: [0, 40]
+    },
+    autosize: false,
+    width: 700,
+    height: 500,
+    margin: {
+      l: 50,
+      r: 0,
+      b: 50,
+      t: 10,
+      pad: 4
+    }
+  };
+
+  var config = {
+    staticPlot: true
+  };
+
+  Plotly.newPlot("hourly_container", data, layout, config);
+</script>
+
+<figure class="highcharts-figure">
+  <div id="h_hourly_container"></div>
+</figure>
+
+<script>
+  Highcharts.chart("h_hourly_container", {
+    chart: {},
+    title: {
+      text: ""
+    },
+    credits: {
+      enabled: false
+    },
+    xAxis: {
+      categories: [
+        "[0, 1)",
+        "[1, 2)",
+        "[2, 3)",
+        "[3, 4)",
+        "[4, 5)",
+        "[5, 6)",
+        "[6, 7)",
+        "[7, 8)",
+        "[8, 9)",
+        "[9, 10)",
+        "[10, 11)",
+        "[11, 12)",
+        "[12, 13)",
+        "[13, 14)",
+        "[14, 15)",
+        "[15, 16)",
+        "[16, 17)",
+        "[17, 18)",
+        "[18, 19)",
+        "[19, 20)",
+        "[20, 21)",
+        "[21, 22)",
+        "[22, 23)",
+        "[23, 24)"
+      ],
+      crosshair: true
+    },
+    yAxis: [
+      {
+        // Primary yAxis
+        title: {
+          text: "Votes Mean",
+          style: {
+            color: Highcharts.getOptions().colors[1]
+          }
+        },
+        min: 0,
+        max: 1600
+      },
+      {
+        // Secondary yAxis
+        title: {
+          text: "Percent Submitted",
+          style: {
+            color: Highcharts.getOptions().colors[0]
+          }
+        },
+        labels: {
+          format: "{value}%",
+          style: {
+            color: Highcharts.getOptions().colors[0]
+          }
+        },
+        opposite: true
+      }
+    ],
+    series: [
+      {
+        name: "Percent Submitted",
+        type: "column",
+        yAxis: 1,
+        data: [
+          0.57,
+          0.51,
+          0.62,
+          0.15,
+          0.51,
+          0.82,
+          0.51,
+          37.35,
+          32.36,
+          5.35,
+          3.24,
+          2.06,
+          2.73,
+          2.47,
+          2.73,
+          1.7,
+          1.29,
+          1.59,
+          0.62,
+          0.72,
+          0.46,
+          0.77,
+          0.51,
+          0.36
+        ]
+      },
+      {
+        name: "Votes Mean",
+        type: "spline",
+        data: [
+          776.45,
+          622.3,
+          512.75,
+          373.33,
+          612.0,
+          791.13,
+          779.8,
+          703.13,
+          731.23,
+          623.02,
+          806.76,
+          623.9,
+          620.64,
+          593.27,
+          647.94,
+          641.55,
+          640.2,
+          669.35,
+          626.83,
+          740.64,
+          698.44,
+          679.93,
+          800.5,
+          654.29
+        ]
+      },
+      {
+        name: "Votes Std",
+        type: "errorbar",
+        data: [
+          [299.37, 1253.53],
+          [389.82, 854.78],
+          [328.36, 697.14],
+          [348.17, 398.5],
+          [316.94, 907.06],
+          [115.43, 1466.82],
+          [422.74, 1136.86],
+          [267.12, 1139.14],
+          [240.31, 1222.14],
+          [243.86, 1002.18],
+          [19.92, 1593.6],
+          [320.52, 927.28],
+          [316.06, 925.22],
+          [320.87, 865.67],
+          [241.3, 1054.59],
+          [251.51, 1031.58],
+          [270.27, 1010.13],
+          [159.59, 1179.12],
+          [351.57, 902.1],
+          [264.04, 1217.24],
+          [264.29, 1132.6],
+          [379.95, 979.91],
+          [385.73, 1215.27],
+          [437.06, 871.52]
         ]
       }
     ]
