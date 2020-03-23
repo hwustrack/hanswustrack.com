@@ -1,4 +1,4 @@
-<!-- <figure class="highcharts-figure">
+<figure class="highcharts-figure">
   <div id="top_container"></div>
 </figure>
 
@@ -77,79 +77,4 @@
       }
     ]
   });
-</script> -->
-
-<div id="top_container"></div>
-
-<script>
-  var data = [
-    {
-      type: "bar",
-      x: [
-        2751,
-        2776,
-        2792,
-        2800,
-        2812,
-        2882,
-        2893,
-        2998,
-        3017,
-        3080,
-        3093,
-        3149,
-        3278,
-        3282,
-        3292,
-        3312,
-        3320,
-        3587,
-        3624,
-        5464
-      ],
-      y: [
-        "Mine",
-        "Sizzy",
-        "Notion Template Gallery",
-        "Nomad List 5.0",
-        "YourStack",
-        "VisualSitemaps",
-        "Basecamp Personal",
-        "Sheety",
-        "Robin the Robot",
-        "Winston Privacy",
-        "Fronty",
-        "OFFEO 3.0",
-        "Mixkit",
-        "Hexometer",
-        "Open Peeps",
-        "Absurd Design",
-        "Zucklight",
-        "Checklist Design",
-        "InVideo",
-        "INK"
-      ],
-      orientation: "h",
-      width: 0.5
-    }
-  ];
-
-  var layout = {
-    autosize: false,
-    width: 600,
-    height: 500,
-    margin: {
-      l: 175,
-      r: 0,
-      b: 50,
-      t: 10,
-      pad: 4
-    }
-  };
-  
-  var config = {
-    staticPlot: true
-  };
-
-  Plotly.newPlot("top_container", data, layout, config);
 </script>
