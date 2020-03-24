@@ -4,11 +4,12 @@
 
 <script>
   Highcharts.chart("topic_votes_std_container", {
-    chart: {
-      type: "bar"
-    },
+    chart: {},
     title: {
       text: ""
+    },
+    credits: {
+      enabled: false
     },
     xAxis: {
       categories: [
@@ -22,21 +23,44 @@
         "Books",
         "Maps",
         "Video Streaming"
-      ],
-      title: {
-        text: null
+      ]
+    },
+    yAxis: [
+      {
+        // Primary yAxis
+        title: {
+          text: "Votes Mean",
+          style: {
+            color: Highcharts.getOptions().colors[1]
+          }
+        }
+      },
+      {
+        // Secondary yAxis
+        title: {
+          text: "Count",
+          style: {
+            color: Highcharts.getOptions().colors[0]
+          }
+        },
+        labels: {
+          style: {
+            color: Highcharts.getOptions().colors[0]
+          }
+        },
+        opposite: true
       }
-    },
-    credits: {
-      enabled: false
-    },
+    ],
     series: [
       {
         name: "Count",
+        type: "column",
+        yAxis: 1,
         data: [10, 11, 10, 39, 41, 10, 27, 54, 10, 18]
       },
       {
         name: "Votes Mean",
+        type: "spline",
         data: [
           511.9,
           649.1,
@@ -52,17 +76,18 @@
       },
       {
         name: "Votes Std",
+        type: "errorbar",
         data: [
-          150.4,
-          181.4,
-          184.7,
-          207.4,
-          218.1,
-          238.3,
-          239.6,
-          240.1,
-          246.7,
-          247.4
+          [361.47, 662.33],
+          [467.69, 830.49],
+          [348.58, 718.02],
+          [365.26, 780.07],
+          [395.83, 831.98],
+          [281.86, 758.54],
+          [371.34, 850.58],
+          [326.54, 806.72],
+          [318.14, 811.46],
+          [415.91, 910.76]
         ]
       }
     ]

@@ -4,11 +4,12 @@
 
 <script>
   Highcharts.chart("topic_votes_container", {
-    chart: {
-      type: "bar"
-    },
+    chart: {},
     title: {
       text: ""
+    },
+    credits: {
+      enabled: false
     },
     xAxis: {
       categories: [
@@ -22,21 +23,44 @@
         "Spreadsheets",
         "Growth Hacking",
         "Side Projects"
-      ],
-      title: {
-        text: null
+      ]
+    },
+    yAxis: [
+      {
+        // Primary yAxis
+        title: {
+          text: "Votes Mean",
+          style: {
+            color: Highcharts.getOptions().colors[1]
+          }
+        }
+      },
+      {
+        // Secondary yAxis
+        title: {
+          text: "Count",
+          style: {
+            color: Highcharts.getOptions().colors[0]
+          }
+        },
+        labels: {
+          style: {
+            color: Highcharts.getOptions().colors[0]
+          }
+        },
+        opposite: true
       }
-    },
-    credits: {
-      enabled: false
-    },
+    ],
     series: [
       {
         name: "Count",
+        type: "column",
+        yAxis: 1,
         data: [11, 29, 19, 14, 31, 21, 25, 22, 61, 12]
       },
       {
         name: "Votes Mean",
+        type: "spline",
         data: [
           1117.8,
           1087.1,
@@ -52,17 +76,18 @@
       },
       {
         name: "Votes Std",
+        type: "errorbar",
         data: [
-          1500.2,
-          1058.8,
-          1165.9,
-          683.9,
-          549.7,
-          598.8,
-          1047.7,
-          405.8,
-          791.5,
-          662.3
+          [-382.39, 2618.03],
+          [28.33, 2145.94],
+          [-159.82, 2171.92],
+          [218.7, 1586.59],
+          [331.46, 1430.92],
+          [281.77, 1479.28],
+          [-171.56, 1923.88],
+          [453.26, 1264.92],
+          [62, 1645.05],
+          [186.41, 1511.09]
         ]
       }
     ]
