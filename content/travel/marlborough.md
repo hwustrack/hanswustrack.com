@@ -4,6 +4,7 @@ date: 2020-03-28T13:48:22+13:00
 ---
 
 From Christchurch, we squiggled our way up the east coast towards Marlborough. A few noteworthy stops along the way:
+
 - Hanmer Springs: A tiny resort town boasting an enormous complex of geothermal spring pools. After all of our hikes down south, soaking in the hot water felt great; although, Kay couldn’t get Hans to sit in the sulfur pools for more than 30 seconds. (How relaxed can you really be as you're asphyxiated by the smell of rotten eggs? -Hans)
 - Kaikoura: A cute coastal town where you can go whale watching or swim with dolphins. We didn’t do either of those, but instead got attacked by seagulls! Okay, well not really, but we did see some literally dive-bombing people! At lunch (a really tasty fish and chips shop), we had to sit inside because the birds were just that keen on stealing your fish. No thank you!
 
