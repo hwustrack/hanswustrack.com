@@ -3,13 +3,13 @@ title: "Copland Track"
 date: 2019-11-19T12:21:27+13:00
 ---
 
-![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1574131935/hanswustrack.com/copland-track/89D045AA-95BB-44E2-8FE1-01270189F474_ebv3qj.jpg "Copland River")
+![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/w_700,q_auto/v1574131935/hanswustrack.com/copland-track/89D045AA-95BB-44E2-8FE1-01270189F474_ebv3qj.jpg "Copland River")
 
 On a whim, we signed up for a one night backpacking trip on the Copland Track, located in Tai Poutini National Park, and we couldn’t have been happier we did - definitely the highlight of the trip thus far! The way out was ten miles of steady incline following a bright blue glacial river and winding in and out of the lush rainforest. There were a few stream crossings, multiple rock scrambles, and two slightly sketchy wire suspension bridges with one person max loads that we had to maneuver our way across. Our end destination was the Welcome Flat Hut, a cute hut with the bare necessities that we’d be sleeping in that night, as well as natural hot springs a two minute walk away from the hut. 
 
 Upon arriving, we claimed a sleeping pad, laid out our sleeping bags, and headed to the springs. There were four different springs, just one being an appropriate temperature for people to relax in. Luckily as we approached the hut, a Dutch girl told us which spring to go in, so we avoided burning our little toes testing the others out for ourselves! We eased into the spring, immediately feeling our muscles relax, and sprawled out. The view was incredible; we looked out to a massive, beautiful snow-capped mountain range that was home to multiple waterfalls. While sitting in the 100 degree water, we even watched an avalanche high up in the range. 
 
-![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1574131924/hanswustrack.com/copland-track/CF5B11C1-F1E6-475B-826D-180A0C68ACFB_l9qkmq.jpg "Hot Springs")
+![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/w_700,q_auto/v1574131924/hanswustrack.com/copland-track/CF5B11C1-F1E6-475B-826D-180A0C68ACFB_l9qkmq.jpg "Hot Springs")
 
 After some moments of solitude, a Swiss couple joined us in the water and we got to chatting; the girl had just completed medical school and this was her celebratory trip! Shortly after, the dreaded sandflies came out and wouldn’t leave us alone, so we decided to call it on the hot springs.
 

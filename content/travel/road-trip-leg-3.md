@@ -3,7 +3,7 @@ title: "Road Trip Leg 3"
 date: 2019-10-18T12:17:08+13:00
 ---
  
- ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1570911924/hanswustrack.com/road-trip-leg-3/Leg3-2_j7lkqe.png "Leg 3 Route")
+ ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/w_700,q_auto/v1570911924/hanswustrack.com/road-trip-leg-3/Leg3-2_j7lkqe.png "Leg 3 Route")
 _Salt Lake City, UT > Moab & Arches National Park > Steamboat Springs, CO > Rocky Mountain National Park & Estes Park > Denver, CO > Mount Rushmore > Sioux Falls, SD > HOME_
 
 The final leg of the trip began on Sunday, September 15. We departed grizzly country unscathed and made our way to Salt Lake City, UT. As we took down camp in the Tetons, we got to watch one final beautiful sunrise over the range. We had an uneventful five hour drive and arrived to SLC long before our Airbnb was ready. To kill some time, we went out to brunch at a place close to our Airbnb called Avenues Proper. The food was good, but the vibe was a little fancier than we were expecting. Any other day and that would have been fine, but since we were on day eight with no shower, we felt a little uncomfortable amongst all of the people dressed in their Sunday best!  During lunch we got word that our Airbnb would be ready early, so we headed over there and started unloading our car. Despite the rental being in a really nice area of town, we managed to attract a drunk neighbor who talked our ear off for a good 45 minutes. Our only respite being that he managed to finish his 128oz tumbler full of a mixed drink and needed a refill. We finally finished bussing our stuff, took some much-needed showers, and rested for a little bit. Undeniably we had some of the best naps of our lives; the difference between a sleeping pad on the hard ground and a nice fluffy bed being incredibly noticeable after seven nights of the former. After transforming ourselves from vagabonds to being acceptable for society, we headed out to explore SLC via Lime scooters (Hans’ favorite). We went out for drinks at a cocktail bar called Lake Effect, woodfired pizza at Settebello, and a final beer and dessert at Red Rock Brewery. To end the night, we Limed back home, and watched an episode of The Great British Bake Off, just as we’d do on a Sunday night back in California. 
@@ -36,7 +36,7 @@ We awoke early on Sunday the 22nd and headed for Mount Rushmore. It was both of 
 
 Monday, September 23 sadly marked the last day of our road trip! We woke up early and hit the road for Milwaukee, and made it home by 3pm. We obviously stopped at one of the first Culver’s we saw once back in WI for some tasty lunch (milkshake and cheese curds included!). 
 
-![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1571360367/hanswustrack.com/road-trip-leg-3/IMG_4191_pbhyf3.jpg "Farewell USA")
+![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/w_700,q_auto/v1571360367/hanswustrack.com/road-trip-leg-3/IMG_4191_pbhyf3.jpg "Farewell USA")
 
 It was bittersweet that the trip had reached its end - on the one hand, we don’t think either of us could have handled even one more morning of bussing all of our belongings from the bear box/Airbnb back to the car, but on the other, we were able to experience some of the most beautiful places in the West and were so happy we took this time during our big transition. 
 

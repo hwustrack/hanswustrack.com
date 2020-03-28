@@ -3,7 +3,7 @@ title: "Windy Welly"
 date: 2019-11-19T12:14:48+13:00
 ---
 
-![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/v1574132349/hanswustrack.com/windy-welly/IMG_6397_caa7bg.jpg "Windy Welly Harbor")
+![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/w_700,q_auto/v1574132349/hanswustrack.com/windy-welly/IMG_6397_caa7bg.jpg "Windy Welly Harbor")
 
 After Northland, we booked it down to Wellington, the capital of NZ and southernmost city on the North Island. It has gained the nickname “Windy Welly” due to the severe weather fronts that blow in directly from Antarctica! We were excited to visit because our tentative plan for the year involves settling down and finding jobs there for our middle eight or nine months. Furthermore, it’s the port for the ferry between the North and South Islands, and we were itching to get down South to the epic mountain landscapes we’d seen on all of the postcards. Admittedly, we skipped a ton of attractions on the North Island, but we plan to return to all of those highlights throughout the year as they will be more accessible for weekend trips from Wellington.
 
