@@ -23,7 +23,7 @@ Before we left, however, Kay invited her family over for a BBQ to introduce us t
 
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/w_700,q_auto/v1585361986/hanswustrack.com/back-in-wellington/IMG_8101_mva5rn.jpg "Our street in Thorndon")
 
-Our apartment is in Thorndon, a neighbourhood just north of downtown Wellington near all of the government agencies. We’re about a 15 minute walk to downtown and only three minutes away from the Botanic Gardens. We live on a main street, right above tons of cafes and some restaurants, and for some reason, there are also upwards of five antique stores on our block. We live with a mother and daughter who are great.
+Our apartment is in Thorndon, a neighborhood just north of downtown Wellington near all of the government agencies. We’re about a 15 minute walk to downtown and only three minutes away from the Botanic Gardens. We live on a main street, right above tons of cafes and some restaurants, and for some reason, there are also upwards of five antique stores on our block. We live with a mother and daughter who are great.
 
 Kay has been working as an Executive Assistant at a government department, the Ministry for Women, and Hans has been working on personal projects and helping a friend with a website. We’ve been trying to balance taking weekend trips with exploring Wellington as much as we can. We’re enjoying trying new restaurants, hanging out by the water, and of course – having a couch to lounge on.
 
