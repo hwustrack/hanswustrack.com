@@ -3,7 +3,7 @@ title: "Coromandel Peninsula"
 date: 2020-03-28T13:50:28+13:00
 ---
 
-We spent the days in between Christmas and New Years on the Coromandel Peninsula (as did many New Zealanders – it’s a local favorite for the holidays, so it was particularly crowded). At least to us, the Coromandel Peninsula was a lesser known area and we didn’t quite know what to expect, aside from beautiful beaches. The area definitely exceeded expectations and to anyone who has a few extra days to explore the North Island, we’d highly recommend checking it out. Our favorites include: 
+We spent the days in between Christmas and New Years on the Coromandel Peninsula (as did many New Zealanders – it’s a local favorite for the holidays, so it was particularly crowded). At least to us, the Coromandel Peninsula was a lesser known area and we didn’t quite know what to expect, aside from beautiful beaches. The area definitely exceeded expectations and to anyone who has a few extra days to explore the North Island, we’d highly recommend checking it out. 
 
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/w_700,q_auto/v1585358965/hanswustrack.com/coromandel-peninsula/IMG_7605_vg3xeb.jpg "Hans amongst the Pinnacles")
 
