@@ -5,7 +5,7 @@ date: 2020-03-28T13:54:09+13:00
 
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/w_700,q_auto/v1585363325/hanswustrack.com/napier/IMG_9086_afklj5.jpg "Napier")
 
-We finally left Taupo and headed back down south to an adorable city called Napier. It’s a coastal town, filled with art deco architecture and surrounded by the vineyards of Hawke’s Bay. The vibe was very relaxed and reminded us of a lot of Santa Barbara. We went wine tasting (the first tour we didn’t do via bike!) and loved each of the vineyards we visited – Elephant Hill, Craggy Range, Black Barn, Clear View, Te Awa. 
+We finally left Taupo and headed back down south to an adorable city called Napier. It’s a coastal town, filled with art deco architecture, and surrounded by the vineyards of Hawke’s Bay. The vibe was very relaxed and reminded us of a lot of Santa Barbara. We went wine tasting (the first tour we didn’t do via bike!) and loved each of the vineyards we visited – Elephant Hill, Craggy Range, Black Barn, Clear View, and Te Awa. 
 
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/w_700,q_auto/v1585358199/hanswustrack.com/napier/IMG_7977_jb3qe0.jpg "Craggy Range")
 
