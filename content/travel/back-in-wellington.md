@@ -3,7 +3,7 @@ title: "Back in Wellington"
 date: 2020-03-28T13:55:15+13:00
 ---
 
-We were staying at a free self-contained site in a suburb of Wellington called Porirua during this rather stressful time of trying to find jobs as well as an apartment. The site was great – right on the coast (which did make it very windy), but it was spacious and had garbage bins, luxurious! We had stayed at this site during all of our visits through Wellington, so at this point, we’d probably spent close to three weeks there, already about a week there during this stretch. Plain and simple – it was wearing on us, we craved lounging on a couch and being able to refrigerate our food!
+It was now mid-January and we were staying at a free self-contained site in a suburb of Wellington called Porirua during this rather stressful time of trying to find jobs as well as an apartment. The site was great – right on the coast (which did make it very windy), but it was spacious and had garbage bins, luxurious! We had stayed at this site during all of our visits through Wellington, so at this point, we’d probably spent close to three weeks there, already about a week there during this stretch. Plain and simple – it was wearing on us, we craved lounging on a couch and being able to refrigerate our food!
 
 ![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/h_0.3,q_auto/v1585361247/hanswustrack.com/back-in-wellington/IMG_0985_xpf2pg.jpg "Georgie's doppleganger")
 _George (Kay C's pup)_
