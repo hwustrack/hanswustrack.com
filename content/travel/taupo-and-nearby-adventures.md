@@ -37,3 +37,5 @@ After reaching the saddle between Mt Tongariro and Mt Doom, we reached our highe
 Due to its popularity, up until this point, we trudged along in a massive single file line, with hardcore long-distance runners occasionally weaving their way through. 
 
 We finally began the descent, endlessly zigzagging down the slope of Tongariro. This portion provided a stunning view of Lake Taupo the whole way. As our feet ached, we finally finished the last little bit through the forest and made our way back to Mayo. 
+
+![alt text](https://res.cloudinary.com/dqsylhojv/image/upload/w_700,q_auto/v1585359700/hanswustrack.com/taupo-and-nearby-adventures/IMG_9081_rybjwi.jpg "The long and winding road")
