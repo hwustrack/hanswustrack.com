@@ -6,7 +6,7 @@ menu: "main"
 print-title: "Hans Wustrack"
 email: "hans.wustrack@gmail.com"
 homepage: "hanswustrack.com"
-location: "Wellington, New Zealand"
+location: "Milwaukee, WI"
 ---
 
 <!-- need new lines between shortcodes or it can add extra p tags https://discourse.gohugo.io/t/solved-empty-p-before-and-after-plain-html-in-markdown-files/5559/2 -->
@@ -25,7 +25,6 @@ My team was responsible for developing these new microservices, supporting our l
   - Designed and benchmarked the schema 
   - Rewrote our storage layer using Entity Framework Core 
 - As team security champion, led security reviews and setup nightly static analysis scans of our codebase using Coverity and MSRD 
-- Designed and implemented the ﬁrst version of access control in our services 
 - Led production releases of our legacy cloud platform which upgrades our cloud components as well as the on-premise components hosted by our customers 
 - Taught a class to another development team about our json based message format 
 - Participated in support rotations where I was the front-line support for any questions/issues from Customer Support 
@@ -37,7 +36,7 @@ My team was responsible for developing these new microservices, supporting our l
 
 {{< resume-subsection-title "IT Developer" ", OSIsoft LLC, San Leandro, CA" >}}
 
-A colleague and I moved to IT to form a development team of just the two of us and continued working closely with the Customer Support Department – pitching, designing, developing, and releasing applications for their use. Our main project was a Windows Form utility to help Tech Support engineers troubleshoot a customer’s system. The app would run a series of modules in parallel to attempt to isolate issues and report them to the Tech Support engineer. Unfortunately, the project was killed because another engineering team was already working on a similar project. 
+A colleague and I moved to IT to form a development team of just the two of us and continued working closely with the Customer Support Department – pitching, designing, developing, and releasing applications for their use. Our main project was a Windows Form utility to help Tech Support engineers troubleshoot a customer’s system. The app would run a series of modules in parallel to attempt to isolate issues and report them to the Tech Support engineer.
 
 {{< resume-subsection-end >}}
 
@@ -54,6 +53,12 @@ Rotated between Tech Support and Field Service departments. Both required workin
 
 
 {{< resume-section-start "Projects" >}}
+
+{{< resume-subsection-start "Career Finder Quiz" >}}
+
+[CareerFinderQuiz.com](https://careerfinderquiz.com/) is a job board that lists jobs from applicant tracking systems with open APIs. I built this during the COVID-19 outbreak to make browsing for jobs more flexible. It's built on a jamstack - Vue.js front end, Hugo SSG, AWS Lambda API, and a MySQL db. The job sync runs on AWS Fargate.
+
+{{< resume-subsection-end >}}
 
 {{< resume-subsection-start "Nothin But Scores" >}}
 
@@ -91,13 +96,13 @@ BS, Mechanical Engineering, University of Wisconsin - Madison, Madison, WI
 
 {{< resume-subsection-start "Languages" >}}
 
-C#, JavaScript
+C#, Python, JavaScript
 
 {{< resume-subsection-end >}}
 
 {{< resume-subsection-start "Technologies" >}}
 
-.NET Framework/Core, ASP.NET/Core, Azure DevOps, Git, Visual Studio, WinDbg, Entity Framework Core (ORM), Azure - Service Fabric, Event Hubs, Table Storage, Key Vault, SQL, Functions
+.NET Framework/Core, ASP.NET/Core, EF Core, MS SQL, WinDbg, Azure - Service Fabric, Event Hubs, Table Storage, Key Vault, SQL, Functions, AWS - RDS, Lambda, Fargate, Hugo (SSG), Tailwind CSS
 
 {{< resume-subsection-end >}}
 
@@ -110,13 +115,13 @@ C#, JavaScript
 
 {{< resume-subsection-start "Languages" >}}
 
-Python, PHP, Java, C
+PHP, Java, C
 
 {{< resume-subsection-end >}}
 
 {{< resume-subsection-start "Technologies" >}}
 
-Hugo, Tailwind CSS, Apache, Nginx, MySQL
+Vue.js, MySQL
 
 {{< resume-subsection-end >}}
 
